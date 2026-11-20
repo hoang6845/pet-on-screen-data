@@ -1,5 +1,5 @@
 {
-  "data_pet_moving_v3": "https://raw.githubusercontent.com/OWNER/REPO/main/publish/data_pet_moving_v3.json",
-  "pet_type": "https://raw.githubusercontent.com/OWNER/REPO/main/publish/pet_type.json",
+  "data_pet_moving_v3": "https://raw.githubusercontent.com/hoang6845/pet-on-screen-data/main/publish/data_pet_moving_v3.json",
+  "pet_type": "https://raw.githubusercontent.com/hoang6845/pet-on-screen-data/main/publish/pet_type.json",
   "data_pet": "[]"
 }
