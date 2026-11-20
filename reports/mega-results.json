@@ -1,0 +1,2442 @@
+[
+  {
+    "row": 201,
+    "id": "731-707",
+    "name": "707",
+    "category": "Games",
+    "series": "Mystic Messenger",
+    "source": "https://www.shimejimascot.com/2023/07/707.html",
+    "drive": "",
+    "mega": "https://mega.nz/file/iA4XnZga#f72HKjrr4uSceg_n8eG5B-TokLCrnDV71NR0xQN-tNU",
+    "status": "ok",
+    "files": [
+      {
+        "original": "shime1.png",
+        "path": "assets/731-707/0000.png",
+        "sha256": "9cc779fa97bae086e1c675d0832955591ac21c6cd7c646db32fd01179c57717b"
+      },
+      {
+        "original": "shime2.png",
+        "path": "assets/731-707/0001.png",
+        "sha256": "ffc28bdb8aabf660f68c96ce3ee13cdd03682b92233b1d7661824fc875253ca2"
+      },
+      {
+        "original": "shime3.png",
+        "path": "assets/731-707/0002.png",
+        "sha256": "38e00e0559ad4b183c9d140ca2af3c00925e5f3159e96dc22d90cf199bf5c59f"
+      },
+      {
+        "original": "shime4.png",
+        "path": "assets/731-707/0003.png",
+        "sha256": "40cb729e4202fd500261ca5ca1aa022778769a1d7eb68b768f14951424cbeb47"
+      },
+      {
+        "original": "shime5.png",
+        "path": "assets/731-707/0004.png",
+        "sha256": "80cfb188668cdacc222c63188abf73831ac95e153cdac2ff87be08830a2b855c"
+      },
+      {
+        "original": "shime6.png",
+        "path": "assets/731-707/0005.png",
+        "sha256": "7c9c29d79203519a457dc09f5490b5fa7a7b77bfff903221d87f191176e17e58"
+      },
+      {
+        "original": "shime7.png",
+        "path": "assets/731-707/0006.png",
+        "sha256": "d39c3bd8aac6a2c80693a73ea7e607c83cd4476b9c05b23f9b4b4218a65a2ce7"
+      },
+      {
+        "original": "shime8.png",
+        "path": "assets/731-707/0007.png",
+        "sha256": "a3e2760115382c9a88cfd80eeaf8410c796e6ed275fc4712d9bac1bc51be773f"
+      },
+      {
+        "original": "shime9.png",
+        "path": "assets/731-707/0008.png",
+        "sha256": "2cd38f7bc51d78ba39c48f9ea985deaad2d0effcf4bef59ad550a17306e1290d"
+      },
+      {
+        "original": "shime10.png",
+        "path": "assets/731-707/0009.png",
+        "sha256": "2260d4d2e3157824cdf8d9e79e6fb2b5d8b2078faa8adcc068fea2569c706194"
+      },
+      {
+        "original": "shime11.png",
+        "path": "assets/731-707/0010.png",
+        "sha256": "e70a1779e71d9cff7948fb877397aa3fa45880ba4596e697f3cf413c52e74c4e"
+      },
+      {
+        "original": "shime12.png",
+        "path": "assets/731-707/0011.png",
+        "sha256": "fa6c50c5fa747295585e0a3a22776c04143bf821697b98ec3f553428da9d3be7"
+      },
+      {
+        "original": "shime13.png",
+        "path": "assets/731-707/0012.png",
+        "sha256": "52294f944dd2aa6f26bde818e4f8cc85e5da8d13426f304177b3bd5f75f13802"
+      },
+      {
+        "original": "shime14.png",
+        "path": "assets/731-707/0013.png",
+        "sha256": "da9a289d3322b94daca06967ba7f38c9e0f839d13d3cae5b13dfdd6a6215a47a"
+      },
+      {
+        "original": "shime15.png",
+        "path": "assets/731-707/0014.png",
+        "sha256": "4340242ee3f2c5698d8d7c5ef934e274505b28219843e95f1911d00718db82ca"
+      },
+      {
+        "original": "shime16.png",
+        "path": "assets/731-707/0015.png",
+        "sha256": "4340242ee3f2c5698d8d7c5ef934e274505b28219843e95f1911d00718db82ca"
+      },
+      {
+        "original": "shime17.png",
+        "path": "assets/731-707/0016.png",
+        "sha256": "4340242ee3f2c5698d8d7c5ef934e274505b28219843e95f1911d00718db82ca"
+      },
+      {
+        "original": "shime18.png",
+        "path": "assets/731-707/0017.png",
+        "sha256": "4b230197f548b3460d99bd22e41fc4e85ce5c121cc17601eb3960b020254c918"
+      },
+      {
+        "original": "shime19.png",
+        "path": "assets/731-707/0018.png",
+        "sha256": "edb7927df984f4a34a9ca2b8b04a84147abcbc6a39f7a6d3b74c2259cd4239b6"
+      },
+      {
+        "original": "shime20.png",
+        "path": "assets/731-707/0019.png",
+        "sha256": "7d2f40e2298aa977abcd0a84e5366bf8ef7673bf0258551a140a877e9887537e"
+      },
+      {
+        "original": "shime21.png",
+        "path": "assets/731-707/0020.png",
+        "sha256": "86925724417bd7618d1b5955a26b40877e2107e02de77fdc548ad6f8cec76182"
+      },
+      {
+        "original": "shime22.png",
+        "path": "assets/731-707/0021.png",
+        "sha256": "fefb946dd728c41021ee7e439730540b43f767b214bba98cbf8c32aa70e360f9"
+      },
+      {
+        "original": "shime23.png",
+        "path": "assets/731-707/0022.png",
+        "sha256": "59a3ed9bb24c1a0d24cdb99f3a03ce0c951c43b323aa9441c28c2d72c1b8cff2"
+      },
+      {
+        "original": "shime24.png",
+        "path": "assets/731-707/0023.png",
+        "sha256": "329440696d29ece838158e6e5f032a64bfcb53343e22145a4868e1549dd6f7ed"
+      },
+      {
+        "original": "shime25.png",
+        "path": "assets/731-707/0024.png",
+        "sha256": "387f3b6c78c5b0e095948b2f6007a61dcb8b381a69ecec00dded6d0367028215"
+      },
+      {
+        "original": "shime26.png",
+        "path": "assets/731-707/0025.png",
+        "sha256": "05770cccdd4be2bcffe0dd70bfe11c71247d2323717418744d672f528b36e619"
+      },
+      {
+        "original": "shime27.png",
+        "path": "assets/731-707/0026.png",
+        "sha256": "4340242ee3f2c5698d8d7c5ef934e274505b28219843e95f1911d00718db82ca"
+      },
+      {
+        "original": "shime28.png",
+        "path": "assets/731-707/0027.png",
+        "sha256": "4340242ee3f2c5698d8d7c5ef934e274505b28219843e95f1911d00718db82ca"
+      },
+      {
+        "original": "shime29.png",
+        "path": "assets/731-707/0028.png",
+        "sha256": "4340242ee3f2c5698d8d7c5ef934e274505b28219843e95f1911d00718db82ca"
+      },
+      {
+        "original": "shime30.png",
+        "path": "assets/731-707/0029.png",
+        "sha256": "dff9dbf29a3f7743727ee7d11f8c9f3442f10d175502b6c3592a82d04ac94285"
+      },
+      {
+        "original": "shime31.png",
+        "path": "assets/731-707/0030.png",
+        "sha256": "912f14ae0d12edae7f3b675494fd33f5f0828ed4093be6ddbf03ccf70844a062"
+      },
+      {
+        "original": "shime32.png",
+        "path": "assets/731-707/0031.png",
+        "sha256": "912f14ae0d12edae7f3b675494fd33f5f0828ed4093be6ddbf03ccf70844a062"
+      },
+      {
+        "original": "shime33.png",
+        "path": "assets/731-707/0032.png",
+        "sha256": "ea8feeeddbfdec59293b3b9b7335a079342e94417d7bd67746e7fa85b2989a35"
+      },
+      {
+        "original": "shime34.png",
+        "path": "assets/731-707/0033.png",
+        "sha256": "d1f89d9351bc8200b8067a031723da1750a5d3079d7810641cd063add02fd509"
+      },
+      {
+        "original": "shime35.png",
+        "path": "assets/731-707/0034.png",
+        "sha256": "258e762299b0daa82e4888d82555cecf0c44580ba7c4edb3001158622c9c052b"
+      },
+      {
+        "original": "shime36.png",
+        "path": "assets/731-707/0035.png",
+        "sha256": "fa061cbee527e5e0334835f96a1c767858bdfc25b97f66583a217baf59c76b0a"
+      },
+      {
+        "original": "shime37.png",
+        "path": "assets/731-707/0036.png",
+        "sha256": "960492f2ea2ff7f5c9a40a7348abccd8795dc02b3fb70406232470add73d8784"
+      },
+      {
+        "original": "shime38.png",
+        "path": "assets/731-707/0037.png",
+        "sha256": "1ad80022259c7419d3ca3c4053c93832c3118403c91670d0ea17323ff7edcd16"
+      },
+      {
+        "original": "shime39.png",
+        "path": "assets/731-707/0038.png",
+        "sha256": "3ee5fd973c264ca3ce608813ca278925cdc839906c796b6f5a8b6c725e0eb673"
+      },
+      {
+        "original": "shime40.png",
+        "path": "assets/731-707/0039.png",
+        "sha256": "6a105b070896e34f40e3fa37b86cadc68b536855aeb218060c7789c6dd98a2d3"
+      },
+      {
+        "original": "shime41.png",
+        "path": "assets/731-707/0040.png",
+        "sha256": "c7a959ccf7cf190452728cb25e47f6a7a714bc18c72ec29ab2a148197097614f"
+      },
+      {
+        "original": "shime42.png",
+        "path": "assets/731-707/0041.png",
+        "sha256": "f7b8ebdb5b39667874b319c00cdf0bb277d55da626c745cce75e8cad19ed2dee"
+      },
+      {
+        "original": "shime43.png",
+        "path": "assets/731-707/0042.png",
+        "sha256": "fbd848f913ed761a472593dd4da7f555c7f1200631f7972fca65a445cad283d3"
+      },
+      {
+        "original": "shime44.png",
+        "path": "assets/731-707/0043.png",
+        "sha256": "8c207f763e5fde417f98842c59d43c75c7ef64d2a151809ff25e3a0a4e3324c8"
+      },
+      {
+        "original": "shime45.png",
+        "path": "assets/731-707/0044.png",
+        "sha256": "fd1690e3750d17f4c01c975d34bdb45c15de3153e2ee4755ec0d0825a998d613"
+      },
+      {
+        "original": "shime46.png",
+        "path": "assets/731-707/0045.png",
+        "sha256": "c1518956e703645bec8c05eb01b393819b566f306862500bd4caeeda80a9e4b7"
+      }
+    ],
+    "archive": "archives\\731-707.zip"
+  },
+  {
+    "row": 441,
+    "id": "753-matt",
+    "name": "Matt",
+    "category": "Anime",
+    "series": "Death Note",
+    "source": "https://www.shimejimascot.com/2023/05/matt.html",
+    "drive": "",
+    "mega": "https://mega.nz/file/iUonwZbS#S9en41-rJTdd_6_ZkqZz-g0pjGpeUsRPvge_I4srH5U",
+    "status": "ok",
+    "files": [
+      {
+        "original": "shime1.png",
+        "path": "assets/753-matt/0000.png",
+        "sha256": "0af279d80df1e8cbe0eb11b9dc9419e08bd12708ff32482576e6948ee2736f5f"
+      },
+      {
+        "original": "shime2.png",
+        "path": "assets/753-matt/0001.png",
+        "sha256": "c218ab9f92df071f031ff9a373287c247681e6f3a779c50568917b2a477e8c3b"
+      },
+      {
+        "original": "shime3.png",
+        "path": "assets/753-matt/0002.png",
+        "sha256": "0af279d80df1e8cbe0eb11b9dc9419e08bd12708ff32482576e6948ee2736f5f"
+      },
+      {
+        "original": "shime4.png",
+        "path": "assets/753-matt/0003.png",
+        "sha256": "e75963a763227a7568083e6a5f5cba18d75624780fcf5782d28d22ebf2430c79"
+      },
+      {
+        "original": "shime5.png",
+        "path": "assets/753-matt/0004.png",
+        "sha256": "3bf19d5f759bd45f07465ee6ec19d0c7cc7d6e690348fc262c17fb4fd265c2a9"
+      },
+      {
+        "original": "shime6.png",
+        "path": "assets/753-matt/0005.png",
+        "sha256": "1e7686a4299b2b2df7c4d25179c4bc3376e2fedd3a07b40b465c6359b084ed8d"
+      },
+      {
+        "original": "shime7.png",
+        "path": "assets/753-matt/0006.png",
+        "sha256": "66f07290f0c6adaaa63ac1a0fccf0b7b37e16afe1505736fb0cfb1da864b8835"
+      },
+      {
+        "original": "shime8.png",
+        "path": "assets/753-matt/0007.png",
+        "sha256": "99945cd9ae57768aaf2a6c10fbf9ce5b397c0df47d5a5cbb9314927cf7ea28a8"
+      },
+      {
+        "original": "shime9.png",
+        "path": "assets/753-matt/0008.png",
+        "sha256": "b6c42e337cc818457f9d3c79b9aceeca6e1700a193d7478c67fdbd938b35d000"
+      },
+      {
+        "original": "shime10.png",
+        "path": "assets/753-matt/0009.png",
+        "sha256": "13bbaf744b21ab0986de3d324325e1ef934f30add4072238b672aef0b289e0d4"
+      },
+      {
+        "original": "shime11.png",
+        "path": "assets/753-matt/0010.png",
+        "sha256": "6dbba98c4b96562eea5d69a278ad6f972e6bacae4b56e11cc7a30b24f08c0ce9"
+      },
+      {
+        "original": "shime12.png",
+        "path": "assets/753-matt/0011.png",
+        "sha256": "287e8177310134210eb78e6b45bfe25cebd121ce7786a9f4f3816cdf55f36830"
+      },
+      {
+        "original": "shime13.png",
+        "path": "assets/753-matt/0012.png",
+        "sha256": "30a6466a56fbb493610c86be0b5b69c83417625ba83801401d8f2545511d4568"
+      },
+      {
+        "original": "shime14.png",
+        "path": "assets/753-matt/0013.png",
+        "sha256": "287e8177310134210eb78e6b45bfe25cebd121ce7786a9f4f3816cdf55f36830"
+      },
+      {
+        "original": "shime15.png",
+        "path": "assets/753-matt/0014.png",
+        "sha256": "5a3089c096ee0ecf741c4c8567cdaf00c147399b52550c79981e448c1766f3cc"
+      },
+      {
+        "original": "shime16.png",
+        "path": "assets/753-matt/0015.png",
+        "sha256": "b6aa731c24184cf9c8de6d6f39f1f3740d059d069b45a99ec4bab8ee066c0e1e"
+      },
+      {
+        "original": "shime17.png",
+        "path": "assets/753-matt/0016.png",
+        "sha256": "18cfd12a33aeb7092da00fead67a9bfdf765cdb0d10a1a2a1a46949902d7eca8"
+      },
+      {
+        "original": "shime18.png",
+        "path": "assets/753-matt/0017.png",
+        "sha256": "2c8b838a8fee0f493c786382e3dea5f2132f4b253916e3cac32821960df4c87e"
+      },
+      {
+        "original": "shime19.png",
+        "path": "assets/753-matt/0018.png",
+        "sha256": "2a49deec24e8850473340552b8e3538f0748191965ec13cdbe7c8181f0234e2e"
+      },
+      {
+        "original": "shime20.png",
+        "path": "assets/753-matt/0019.png",
+        "sha256": "fccf6c7b04a8fb173f6e7a13a6b3f49e650978d749eb57455c30215943b1d566"
+      },
+      {
+        "original": "shime21.png",
+        "path": "assets/753-matt/0020.png",
+        "sha256": "f912db47521c2b86a64cd8cd75d4b6ece0bce9f5b552aaef369267828a402616"
+      },
+      {
+        "original": "shime22.png",
+        "path": "assets/753-matt/0021.png",
+        "sha256": "e4c1088343124a38aae3e942c65746481abd52108a38591a382207cec5d38697"
+      },
+      {
+        "original": "shime23.png",
+        "path": "assets/753-matt/0022.png",
+        "sha256": "c4ad7d44ccbbda5d044bba0b07f35b7f5eebc8b1a5994815c730674fb48e7c8e"
+      },
+      {
+        "original": "shime24.png",
+        "path": "assets/753-matt/0023.png",
+        "sha256": "29148daa7337dc4142f8dc1ac5b915b30c8f8359bb25ef03bb846d586cb3ed7d"
+      },
+      {
+        "original": "shime25.png",
+        "path": "assets/753-matt/0024.png",
+        "sha256": "540e5a740e73b9f6ae030da7f821db8717d3a973726413941bd38a6cb781a2b8"
+      },
+      {
+        "original": "shime26.png",
+        "path": "assets/753-matt/0025.png",
+        "sha256": "5a3089c096ee0ecf741c4c8567cdaf00c147399b52550c79981e448c1766f3cc"
+      },
+      {
+        "original": "shime27.png",
+        "path": "assets/753-matt/0026.png",
+        "sha256": "332085afd5857c8e18035f0c0865d87a03f78533f8563da03cb76d32dd472d5f"
+      },
+      {
+        "original": "shime28.png",
+        "path": "assets/753-matt/0027.png",
+        "sha256": "b6aa731c24184cf9c8de6d6f39f1f3740d059d069b45a99ec4bab8ee066c0e1e"
+      },
+      {
+        "original": "shime29.png",
+        "path": "assets/753-matt/0028.png",
+        "sha256": "18cfd12a33aeb7092da00fead67a9bfdf765cdb0d10a1a2a1a46949902d7eca8"
+      },
+      {
+        "original": "shime30.png",
+        "path": "assets/753-matt/0029.png",
+        "sha256": "299d41600902c7018c2f37df529ff1cdd1df47cd1d437f7b58fd058d895dcdab"
+      },
+      {
+        "original": "shime31.png",
+        "path": "assets/753-matt/0030.png",
+        "sha256": "23987d9d9879ef521d1545a2c4c378bf079d8e9624de7ddb0fee8608c64c8a27"
+      },
+      {
+        "original": "shime32.png",
+        "path": "assets/753-matt/0031.png",
+        "sha256": "d422c7d040d1eb1d927aad1b54a5e72045af45cead9591441d2da0c849f2aad9"
+      },
+      {
+        "original": "shime33.png",
+        "path": "assets/753-matt/0032.png",
+        "sha256": "299d41600902c7018c2f37df529ff1cdd1df47cd1d437f7b58fd058d895dcdab"
+      },
+      {
+        "original": "shime34.png",
+        "path": "assets/753-matt/0033.png",
+        "sha256": "409c981e63ee15e4b15a462d28428108507b7da8281c7f32417a54d76ad3bdd1"
+      },
+      {
+        "original": "shime35.png",
+        "path": "assets/753-matt/0034.png",
+        "sha256": "083ae1ce953d75817d1d648480db7f1b3908bb418e30c4be59b04e4d1b06a53a"
+      },
+      {
+        "original": "shime36.png",
+        "path": "assets/753-matt/0035.png",
+        "sha256": "ccdb537f4a6659e63e02663719d4597d6011daa81ecd00c4f23359c6ad55bece"
+      },
+      {
+        "original": "shime37.png",
+        "path": "assets/753-matt/0036.png",
+        "sha256": "e3903a3175c7a7882b759fcbb8e6ea02984716747b585372d6533c4bcd9e614b"
+      },
+      {
+        "original": "shime38.png",
+        "path": "assets/753-matt/0037.png",
+        "sha256": "89df3e7e420ce20564c1d74027705ac31a57b6dd869edc4d151c5d0f09548e1b"
+      },
+      {
+        "original": "shime39.png",
+        "path": "assets/753-matt/0038.png",
+        "sha256": "a87ebdb0fc0ab968f601ebadd2baa27d07f1211d9cbbdfa2c3522547c16c069a"
+      },
+      {
+        "original": "shime40.png",
+        "path": "assets/753-matt/0039.png",
+        "sha256": "01a61775030fccc90e023120f98cd74b4b0c8553fca3769fb1797e0ecab95e38"
+      },
+      {
+        "original": "shime41.png",
+        "path": "assets/753-matt/0040.png",
+        "sha256": "ab6a63f74b0d59f8cbdfd1325e4e763680b333caf3571777f6452e103c378b4d"
+      },
+      {
+        "original": "shime42.png",
+        "path": "assets/753-matt/0041.png",
+        "sha256": "3a04068e04e1f1a7852a387cc82aa6657c4b267469fe835c990ab6ca14e38010"
+      },
+      {
+        "original": "shime43.png",
+        "path": "assets/753-matt/0042.png",
+        "sha256": "bf044a6d74d23ae953da6e94cc0fc211fe4af6cf3606aa91f549b70d9a6177a7"
+      },
+      {
+        "original": "shime44.png",
+        "path": "assets/753-matt/0043.png",
+        "sha256": "f1a72cfc06afd39362d861445b2a7169bd56b9766c2e97ad0c992da04ed267b7"
+      },
+      {
+        "original": "shime45.png",
+        "path": "assets/753-matt/0044.png",
+        "sha256": "ad4d83ea3646c0aa8de23fe9c57faab8c7138c815baceab07e680231fd19262a"
+      },
+      {
+        "original": "shime46.png",
+        "path": "assets/753-matt/0045.png",
+        "sha256": "bd3c4531bf2c287cce832f12bec29149ab9b41a7c12048ac8dc0d51be28edd7b"
+      }
+    ],
+    "archive": "archives\\753-matt.zip"
+  },
+  {
+    "row": 461,
+    "id": "748-izaya-orihara",
+    "name": "Izaya Orihara",
+    "category": "Anime",
+    "series": "Durarara",
+    "source": "https://www.shimejimascot.com/2023/06/izaya-orihara_6.html",
+    "drive": "",
+    "mega": "https://mega.nz/file/vF5VUCbT#ZFxIicVXxNy7S9nIJvoVYohmON7925sVRMBvliW30Wo",
+    "status": "ok",
+    "files": [
+      {
+        "original": "shime1.png",
+        "path": "assets/748-izaya-orihara/0000.png",
+        "sha256": "635b322a8125629d6a8de21e52671e227c48f005625ef6dbfa8b0b0c388c035b"
+      },
+      {
+        "original": "shime2.png",
+        "path": "assets/748-izaya-orihara/0001.png",
+        "sha256": "10867e637b64c2f4a4a80bc62acca282c6886e0bb8765f11dfed7207e139d020"
+      },
+      {
+        "original": "shime3.png",
+        "path": "assets/748-izaya-orihara/0002.png",
+        "sha256": "688a28fb38351eccce1c2bd86e255e6c990064aefaf56ffc9c31ae10d10c8583"
+      },
+      {
+        "original": "shime4.png",
+        "path": "assets/748-izaya-orihara/0003.png",
+        "sha256": "c9866f99c8d533deb3fa99da6faf8d109ba5a2ad358ebdd97a9447bdde7c0511"
+      },
+      {
+        "original": "shime5.png",
+        "path": "assets/748-izaya-orihara/0004.png",
+        "sha256": "a5ca2330b9c29a7c8f0ef20e0a9660601346120aa13fb4305772428577f79762"
+      },
+      {
+        "original": "shime6.png",
+        "path": "assets/748-izaya-orihara/0005.png",
+        "sha256": "2eb992741458913b114f6b5298c92a6d35fcc95a83f93ec0b197b19a3bca61f4"
+      },
+      {
+        "original": "shime7.png",
+        "path": "assets/748-izaya-orihara/0006.png",
+        "sha256": "7b6aaebc0278e32c0754dd34cbd233904a6d9a36f3f59435d02c07ecfd18b8cd"
+      },
+      {
+        "original": "shime8.png",
+        "path": "assets/748-izaya-orihara/0007.png",
+        "sha256": "74cc72d4b36acaf7a2701dbec46f60855b9fab1940d53da709718192e09383d3"
+      },
+      {
+        "original": "shime9.png",
+        "path": "assets/748-izaya-orihara/0008.png",
+        "sha256": "de8e901dddceccaf6d7e6117acb7e4896c8054f2a08880f0bfb934370d392eda"
+      },
+      {
+        "original": "shime10.png",
+        "path": "assets/748-izaya-orihara/0009.png",
+        "sha256": "74cc72d4b36acaf7a2701dbec46f60855b9fab1940d53da709718192e09383d3"
+      },
+      {
+        "original": "shime11.png",
+        "path": "assets/748-izaya-orihara/0010.png",
+        "sha256": "81d3220c136329438b587112319540af7351f6a1942936f0a966336a4af67382"
+      },
+      {
+        "original": "shime12.png",
+        "path": "assets/748-izaya-orihara/0011.png",
+        "sha256": "b3992e9e07d2a7323f26a0c73ebcf0bdef84596c2ac7fa00db88e5cc0bcb04f8"
+      },
+      {
+        "original": "shime13.png",
+        "path": "assets/748-izaya-orihara/0012.png",
+        "sha256": "0b65cdbe3dc512c7ec671708421cdd4743414daaf7165fedc760ba031e91a1a1"
+      },
+      {
+        "original": "shime14.png",
+        "path": "assets/748-izaya-orihara/0013.png",
+        "sha256": "13427a765bdb164d7336d042f125a795ee5f3d11a29b4a1a998ddb996ea798bd"
+      },
+      {
+        "original": "shime15.png",
+        "path": "assets/748-izaya-orihara/0014.png",
+        "sha256": "d6a973b92e6b028ebc71d5d4f3d30f7eaeabbc26ab725153b33e87dff5098424"
+      },
+      {
+        "original": "shime16.png",
+        "path": "assets/748-izaya-orihara/0015.png",
+        "sha256": "cc635170ede1a6106ef91886c5fd5dcdb531ce2010fc343c8e7c8a2a87236c47"
+      },
+      {
+        "original": "shime17.png",
+        "path": "assets/748-izaya-orihara/0016.png",
+        "sha256": "3cb4f87b6f18e10ac66ad3808334e2dbbf7e80e44324d53db3cfa69ff4cfb1b1"
+      },
+      {
+        "original": "shime18.png",
+        "path": "assets/748-izaya-orihara/0017.png",
+        "sha256": "f3ac3e3fc107385a73e0e368d942e531faabe8711a91b92ec2c200a74df927ee"
+      },
+      {
+        "original": "shime19.png",
+        "path": "assets/748-izaya-orihara/0018.png",
+        "sha256": "951f5de857808f8dc917f5fce7763fec5136411b8ab5d0e625269c047b4086d5"
+      },
+      {
+        "original": "shime20.png",
+        "path": "assets/748-izaya-orihara/0019.png",
+        "sha256": "e051be08604a5a77f36f841e8b54f0a64fd164fa3c9ca2f95aa2210642679cda"
+      },
+      {
+        "original": "shime21.png",
+        "path": "assets/748-izaya-orihara/0020.png",
+        "sha256": "b54b60851728aa490aa82676da70c22992e69ccac9c888c17398c90c84337b9f"
+      },
+      {
+        "original": "shime22.png",
+        "path": "assets/748-izaya-orihara/0021.png",
+        "sha256": "536c3ce62b2696cac98fabfe2c9129342703aa5a35242689df8a00950889412a"
+      },
+      {
+        "original": "shime23.png",
+        "path": "assets/748-izaya-orihara/0022.png",
+        "sha256": "fccd541dac9cdf96e834308eb081334b100011f7109e266e8780707a4e8cba82"
+      },
+      {
+        "original": "shime24.png",
+        "path": "assets/748-izaya-orihara/0023.png",
+        "sha256": "ff7a99931c4a7c01cca1f6828e1c0628c7238d736c9825f1ec8296296c33bf91"
+      },
+      {
+        "original": "shime25.png",
+        "path": "assets/748-izaya-orihara/0024.png",
+        "sha256": "b8b5d7a5517dae6233717dd45e52359f73bc5aad9c9dbeab0801fbcc8ce9bc0c"
+      },
+      {
+        "original": "shime26.png",
+        "path": "assets/748-izaya-orihara/0025.png",
+        "sha256": "8a32ab8a4e17c75574277cc1d3e9e5dd56fea4a70d4773d6d5bd3b84d914fb2d"
+      },
+      {
+        "original": "shime27.png",
+        "path": "assets/748-izaya-orihara/0026.png",
+        "sha256": "9310d80ebaf000a0e3f707c85b53bfec0c20de55922ce99f018f7cfa711329b0"
+      },
+      {
+        "original": "shime28.png",
+        "path": "assets/748-izaya-orihara/0027.png",
+        "sha256": "c52f9cdfac4965adfbfc8bab3a5a972e47753769a45b59dd42fe8ff90424a9d2"
+      },
+      {
+        "original": "shime29.png",
+        "path": "assets/748-izaya-orihara/0028.png",
+        "sha256": "133afc27bae8679b125785880220342a8265be13b61a2e3e1f429ce613fbfdfc"
+      },
+      {
+        "original": "shime30.png",
+        "path": "assets/748-izaya-orihara/0029.png",
+        "sha256": "1544b12f8fc8a6d083cd07909ef18f25329a7d0998aa7fd876c799f5a707f877"
+      },
+      {
+        "original": "shime31.png",
+        "path": "assets/748-izaya-orihara/0030.png",
+        "sha256": "15ec39214cf7cafa8343eb58484e09a1af296ddeb2200ea8906f53e01b91b671"
+      },
+      {
+        "original": "shime32.png",
+        "path": "assets/748-izaya-orihara/0031.png",
+        "sha256": "4debd65cfb2a27be31f6c28418623d3cfdffdc1d2f1c9150919fe4a61b30edad"
+      },
+      {
+        "original": "shime33.png",
+        "path": "assets/748-izaya-orihara/0032.png",
+        "sha256": "6a94b4a3609c040d475c757380eaed5e7c05c081b109ca4b210e9dde268555a7"
+      },
+      {
+        "original": "shime34.png",
+        "path": "assets/748-izaya-orihara/0033.png",
+        "sha256": "54406c5effb9ca3347a31a2ee330e828f3e575dba1dd3636e269b41ca2bdc65b"
+      },
+      {
+        "original": "shime35.png",
+        "path": "assets/748-izaya-orihara/0034.png",
+        "sha256": "a071f10e4093ba8cc7accd563f12ec848d7f585b79b2bd90c42fd17e98d1c6a0"
+      },
+      {
+        "original": "shime36.png",
+        "path": "assets/748-izaya-orihara/0035.png",
+        "sha256": "10161619194520a6a1629c063034003993713d6691e5c8f6f07269d4ae04d79a"
+      },
+      {
+        "original": "shime37.png",
+        "path": "assets/748-izaya-orihara/0036.png",
+        "sha256": "4fdc06f7dc03fa1817ee9bd4e7a917ce18b0381ed736b95b08dff5d4a0bc4b15"
+      },
+      {
+        "original": "shime38.png",
+        "path": "assets/748-izaya-orihara/0037.png",
+        "sha256": "40e9f0151e95ef2a3b09c97b2a85680fb09ed4da74dad02acc0935fbedfa03e5"
+      },
+      {
+        "original": "shime39.png",
+        "path": "assets/748-izaya-orihara/0038.png",
+        "sha256": "f4e583d5d699b46dd0bcc36ae22385951cde04fd1357eac2011254bf0b7dcb9b"
+      },
+      {
+        "original": "shime40.png",
+        "path": "assets/748-izaya-orihara/0039.png",
+        "sha256": "51e7edae69b32a8198adddff4111bf3490534f7eefb547a7f3000b2a258faea5"
+      },
+      {
+        "original": "shime41.png",
+        "path": "assets/748-izaya-orihara/0040.png",
+        "sha256": "495bbd6ff267a53c4ff23f19b90ab44fe881205c8998d208673024e527dd88be"
+      },
+      {
+        "original": "shime42.png",
+        "path": "assets/748-izaya-orihara/0041.png",
+        "sha256": "c7c0332f2fd86458d07da2bc0f41c0d8a91f290e34499ef64c431dfb0703bede"
+      },
+      {
+        "original": "shime43.png",
+        "path": "assets/748-izaya-orihara/0042.png",
+        "sha256": "bd183a68bc7b0b7655ef954e04986ea1a33e540cd23f97827ba05af1b8722c02"
+      },
+      {
+        "original": "shime44.png",
+        "path": "assets/748-izaya-orihara/0043.png",
+        "sha256": "2b032351191dfdd93caa9917aad8e385af78e811fe0933799056dcbff4cdac84"
+      },
+      {
+        "original": "shime45.png",
+        "path": "assets/748-izaya-orihara/0044.png",
+        "sha256": "975718bb099e32d2ea83ceb929b92bb386d600aa6d1b8374c25d58c4ba922c0b"
+      },
+      {
+        "original": "shime46.png",
+        "path": "assets/748-izaya-orihara/0045.png",
+        "sha256": "d130d980d9d304c1690e278ef8b3ff1f09c22724c440e8204639bb508d1de5cf"
+      }
+    ],
+    "archive": "archives\\748-izaya-orihara.zip"
+  },
+  {
+    "row": 462,
+    "id": "749-izaya-orihara",
+    "name": "Izaya Orihara",
+    "category": "Anime",
+    "series": "Durarara",
+    "source": "https://www.shimejimascot.com/2023/06/izaya-orihara.html",
+    "drive": "",
+    "mega": "https://mega.nz/file/HZZ00D4R#ZEGZiSeGEkln8s-dkDADlplOQlyoeUz4mbLCTPyTkb0",
+    "status": "ok",
+    "files": [
+      {
+        "original": "shime1.png",
+        "path": "assets/749-izaya-orihara/0000.png",
+        "sha256": "6e2d35a3c349c89106b8edea4c5e07ffd513a483817a4df3a20b93deae30c57a"
+      },
+      {
+        "original": "shime2.png",
+        "path": "assets/749-izaya-orihara/0001.png",
+        "sha256": "334cb0e908131f25479816a765cae07d80a207bc1a503fb2f78828ec66247eff"
+      },
+      {
+        "original": "shime3.png",
+        "path": "assets/749-izaya-orihara/0002.png",
+        "sha256": "45a9e3f82298e58f1f58976f33a8d9690b19b587543eaa6a680cb60e83f22145"
+      },
+      {
+        "original": "shime4.png",
+        "path": "assets/749-izaya-orihara/0003.png",
+        "sha256": "dd134201c7a2bc0f9d57a69a878d754c6be9c723c81e5dabcff75fe674f7f68f"
+      },
+      {
+        "original": "shime5.png",
+        "path": "assets/749-izaya-orihara/0004.png",
+        "sha256": "c4a1c44f89166a76a6828668c165923d5dc6ea9f5e461eb63814f3d0a83116eb"
+      },
+      {
+        "original": "shime6.png",
+        "path": "assets/749-izaya-orihara/0005.png",
+        "sha256": "a46b11febe3951307d5c81c62de53ef88aa150c36b164d05a12ea15760686c65"
+      },
+      {
+        "original": "shime7.png",
+        "path": "assets/749-izaya-orihara/0006.png",
+        "sha256": "d486039dc7c95e2965f63f04b160ab05b7aa49b431f0065758dbf9e920805695"
+      },
+      {
+        "original": "shime8.png",
+        "path": "assets/749-izaya-orihara/0007.png",
+        "sha256": "682b75974c548480a99248077b910961c14a1d432d422cf5b97f796780451a95"
+      },
+      {
+        "original": "shime9.png",
+        "path": "assets/749-izaya-orihara/0008.png",
+        "sha256": "5bda8fef9da312a3e240de8a3d9a621fceef5664b7083d6a21ed56d425c3423e"
+      },
+      {
+        "original": "shime10.png",
+        "path": "assets/749-izaya-orihara/0009.png",
+        "sha256": "af682e5f72abd1a839b556b4584e262ea07086214e686b48464116c0fc88d591"
+      },
+      {
+        "original": "shime11.png",
+        "path": "assets/749-izaya-orihara/0010.png",
+        "sha256": "cac5b27806be6c2802f6f0798091b542e764834e62f50a3d94320cd8c85235b4"
+      },
+      {
+        "original": "shime12.png",
+        "path": "assets/749-izaya-orihara/0011.png",
+        "sha256": "106ec43b7dc353add5c741a33e2778eea7e3482017829e2e2cba8b54cc7f91cd"
+      },
+      {
+        "original": "shime13.png",
+        "path": "assets/749-izaya-orihara/0012.png",
+        "sha256": "5b4732f4043f4544b3d05f2865a50a0a055eb3f7e42577dadfc49e800cf3432d"
+      },
+      {
+        "original": "shime14.png",
+        "path": "assets/749-izaya-orihara/0013.png",
+        "sha256": "948d41afed52f1e1d8177e48ec1e13862a1ae5fd138efa85e95a2aa9a29d425a"
+      },
+      {
+        "original": "shime15.png",
+        "path": "assets/749-izaya-orihara/0014.png",
+        "sha256": "76fadf38467f8ead4b654d171553292a12c699fab399c11394e433b9103d0b3c"
+      },
+      {
+        "original": "shime16.png",
+        "path": "assets/749-izaya-orihara/0015.png",
+        "sha256": "ff4fab68976cda541032f3cafc2ead8140f96d20b9819f49a8030c0d0220d23a"
+      },
+      {
+        "original": "shime17.png",
+        "path": "assets/749-izaya-orihara/0016.png",
+        "sha256": "3f0dc1e9ecfef89bb42f236f56480d39fb33466a2323def399f39f475a8bf05d"
+      },
+      {
+        "original": "shime18.png",
+        "path": "assets/749-izaya-orihara/0017.png",
+        "sha256": "2d9a497419f3bdc2fba7216dd8d9d199d2cb60a8c2a508ec8de8fa28abf7f7de"
+      },
+      {
+        "original": "shime19.png",
+        "path": "assets/749-izaya-orihara/0018.png",
+        "sha256": "425dfb53f3b01e0fcb4e5f12ff6117d72eb68aa03286d0a2208939829a3c965b"
+      },
+      {
+        "original": "shime20.png",
+        "path": "assets/749-izaya-orihara/0019.png",
+        "sha256": "61163f92a295d9e9fdbcaad230f6f6bd54fc2417ff618878e3e773417a52f3ee"
+      },
+      {
+        "original": "shime21.png",
+        "path": "assets/749-izaya-orihara/0020.png",
+        "sha256": "6cf5b4899cfc251db2887ad2b214bb89f828213e23e22dd2916551d709a2b51f"
+      },
+      {
+        "original": "shime22.png",
+        "path": "assets/749-izaya-orihara/0021.png",
+        "sha256": "884c3b67fd094ab68a0ef581f5b8d9cb5c4506a16f649ef03f2be25cbb77e9af"
+      },
+      {
+        "original": "shime23.png",
+        "path": "assets/749-izaya-orihara/0022.png",
+        "sha256": "cb9226d80e44f94d8bb4b3ef26ef80490af3084e60a4d9d3fbf511bde15d53a3"
+      },
+      {
+        "original": "shime24.png",
+        "path": "assets/749-izaya-orihara/0023.png",
+        "sha256": "6f4105b887abdf346d96e69602a9d92e5db2c862f320d12ae9b4efccf0455ccc"
+      },
+      {
+        "original": "shime25.png",
+        "path": "assets/749-izaya-orihara/0024.png",
+        "sha256": "eea49329921b9b7bcfdf8318ec951ab0f7f2f20b55763adda3b0e2bc39594102"
+      },
+      {
+        "original": "shime26.png",
+        "path": "assets/749-izaya-orihara/0025.png",
+        "sha256": "1ce81b7b0e7bedbc88e906f5c7556ac2492c392a8f9640de36a15d9ac63324e2"
+      },
+      {
+        "original": "shime27.png",
+        "path": "assets/749-izaya-orihara/0026.png",
+        "sha256": "a41f98663bfd0a3ece11eb3005486d3cc6f2fbef028e5f8101addd9afaf7e473"
+      },
+      {
+        "original": "shime28.png",
+        "path": "assets/749-izaya-orihara/0027.png",
+        "sha256": "afc30da4758c2c5ffa8766168ef8edc529be56f703c8571d757895f92c367652"
+      },
+      {
+        "original": "shime29.png",
+        "path": "assets/749-izaya-orihara/0028.png",
+        "sha256": "f9fdc80107f16aecb3cd0c4db63e29209772ecd11e566d4c6df23f08e6ac8594"
+      },
+      {
+        "original": "shime30.png",
+        "path": "assets/749-izaya-orihara/0029.png",
+        "sha256": "cade4906f9d868a4a2eea9648ccf821fdef1ac38c8dc7ec2669e91c763f7beaa"
+      },
+      {
+        "original": "shime31.png",
+        "path": "assets/749-izaya-orihara/0030.png",
+        "sha256": "0a033651b105679a2b28b3affc30e1109b943ef43835059423e42f814f5c8fc3"
+      },
+      {
+        "original": "shime32.png",
+        "path": "assets/749-izaya-orihara/0031.png",
+        "sha256": "8ae4245b30547b67f4040c0b8beb6a3105eb4474e46ebbce326ee328ef9d8322"
+      },
+      {
+        "original": "shime33.png",
+        "path": "assets/749-izaya-orihara/0032.png",
+        "sha256": "59ca0bdae72a60dd7212c67d92b32d5357d41d8ce2028958212cfc8b75c778dd"
+      },
+      {
+        "original": "shime34.png",
+        "path": "assets/749-izaya-orihara/0033.png",
+        "sha256": "0749b4c896e18a1a379c536d7120c3408070d839e31f59ea477fc393b0076d05"
+      },
+      {
+        "original": "shime35.png",
+        "path": "assets/749-izaya-orihara/0034.png",
+        "sha256": "c20350e619cf84f98134cb50ea3641b0ecbebfb868901af2a5750a4be513270d"
+      },
+      {
+        "original": "shime36.png",
+        "path": "assets/749-izaya-orihara/0035.png",
+        "sha256": "1697e76d1f34efc1741b2e56b21ed672afd4a81f77dfb30a236d9a685857bd7f"
+      },
+      {
+        "original": "shime37.png",
+        "path": "assets/749-izaya-orihara/0036.png",
+        "sha256": "8c128778555e2c975e8f4fbb7e3926928794770d77d45e0f5ef5ed616cd7bcb5"
+      },
+      {
+        "original": "shime38.png",
+        "path": "assets/749-izaya-orihara/0037.png",
+        "sha256": "018061befe6f5f552011f0e994c34af8d9f4afbe285bc52d733343f8d1d99227"
+      },
+      {
+        "original": "shime39.png",
+        "path": "assets/749-izaya-orihara/0038.png",
+        "sha256": "74e906fd0b071367100cac5665daf54f28bde21dec531770b05f31f45cfb6e30"
+      },
+      {
+        "original": "shime40.png",
+        "path": "assets/749-izaya-orihara/0039.png",
+        "sha256": "20cd4f4454412e52d00b01abdace8a0866522c7f24a41fc28900ae1b1d97108b"
+      },
+      {
+        "original": "shime41.png",
+        "path": "assets/749-izaya-orihara/0040.png",
+        "sha256": "0c0fbd52a6fd4429caa900f695b631c3ff93cd1afa947e6670104c1b73b1ad04"
+      },
+      {
+        "original": "shime42.png",
+        "path": "assets/749-izaya-orihara/0041.png",
+        "sha256": "a55584229386a2062b3b54286ae8c3b01c2c39760f8db347ba3d06566db33ffa"
+      },
+      {
+        "original": "shime43.png",
+        "path": "assets/749-izaya-orihara/0042.png",
+        "sha256": "e0048e44514bbbd56edc6a7350670a44e18ec7677449c8325fa18971b99a48f9"
+      },
+      {
+        "original": "shime44.png",
+        "path": "assets/749-izaya-orihara/0043.png",
+        "sha256": "397aa1389ce85f9b50fa19f75f9d356a48d88d9b1dd0c625b1a7e7ebecfb4d6a"
+      },
+      {
+        "original": "shime45.png",
+        "path": "assets/749-izaya-orihara/0044.png",
+        "sha256": "0ff7b12041a053be67b36664ea24daab29a5bf42a78b855bd3d075e60b685970"
+      },
+      {
+        "original": "shime46.png",
+        "path": "assets/749-izaya-orihara/0045.png",
+        "sha256": "76ce0ee862c1ba6552a4b78ab839889fa735d3b2d8ea6376e497198cff6f3bcc"
+      }
+    ],
+    "archive": "archives\\749-izaya-orihara.zip"
+  },
+  {
+    "row": 467,
+    "id": "747-masaomi-kida",
+    "name": "Masaomi Kida",
+    "category": "Anime",
+    "series": "Durarara",
+    "source": "https://www.shimejimascot.com/2023/06/masaomi-kida.html",
+    "drive": "",
+    "mega": "https://mega.nz/file/aVxBCTzK#nH96So5sprPzLHDNw4rrx3CKzlnbmXrzV2E5sjdfBBY",
+    "status": "ok",
+    "files": [
+      {
+        "original": "shime1.png",
+        "path": "assets/747-masaomi-kida/0000.png",
+        "sha256": "048650865502be1dce45a1a3f460af4da39f22d2173a48e597fca1150c6c2eb3"
+      },
+      {
+        "original": "shime2.png",
+        "path": "assets/747-masaomi-kida/0001.png",
+        "sha256": "4f7a0991fdb02230aa1d6151c533c108d77bba15a6e8c898fa4f232b8eb63a42"
+      },
+      {
+        "original": "shime3.png",
+        "path": "assets/747-masaomi-kida/0002.png",
+        "sha256": "bf03db577633901cd2283ae4773ac917c6382bb107620f32e1e98fc1ec8e8bcf"
+      },
+      {
+        "original": "shime4.png",
+        "path": "assets/747-masaomi-kida/0003.png",
+        "sha256": "576cb0ba004b7f4825c8c193e6ade83e5b4a999c899f4fbe0bfcb9da09bbd4f7"
+      },
+      {
+        "original": "shime5.png",
+        "path": "assets/747-masaomi-kida/0004.png",
+        "sha256": "6e6c9b53e7532e1bc3c1132868d6633cd3d96b20ed79e58e4eb13e123e6bfd05"
+      },
+      {
+        "original": "shime6.png",
+        "path": "assets/747-masaomi-kida/0005.png",
+        "sha256": "5e1975d4ae22556e2cd862c1b81f43b35c755a817573ecbfe08a6a5c6a286d96"
+      },
+      {
+        "original": "shime7.png",
+        "path": "assets/747-masaomi-kida/0006.png",
+        "sha256": "b4fe362083bb6edaea6c5325c0adbf70e3cf6e2d743769c61ca9c072d447b62c"
+      },
+      {
+        "original": "shime8.png",
+        "path": "assets/747-masaomi-kida/0007.png",
+        "sha256": "f50e58b84691c7c4952240278a3472ff6c45bef5d67568904cdd77400018f031"
+      },
+      {
+        "original": "shime9.png",
+        "path": "assets/747-masaomi-kida/0008.png",
+        "sha256": "ee3f6414720cbc7e8e339c3c580b9d31637dbd056b08c1ff3ac2cfa2e7d33349"
+      },
+      {
+        "original": "shime10.png",
+        "path": "assets/747-masaomi-kida/0009.png",
+        "sha256": "f10ed2e94eaffb33dbff167fc1efdadd57813d6f5cd986a60ec1f6b88242fc7a"
+      },
+      {
+        "original": "shime11.png",
+        "path": "assets/747-masaomi-kida/0010.png",
+        "sha256": "6a37feebff84be288aa51cc49eeac6d0054bd5c536d50dfba148ab789a836079"
+      },
+      {
+        "original": "shime12.png",
+        "path": "assets/747-masaomi-kida/0011.png",
+        "sha256": "0c1ff1fd2be73f3944ddca331760cb1c4088a89ce7b57797eaa0835d8e67d3ea"
+      },
+      {
+        "original": "shime13.png",
+        "path": "assets/747-masaomi-kida/0012.png",
+        "sha256": "231d1c3d4c66b4a692459592e85dd0055173a96ad62be073e670b0846449cfb6"
+      },
+      {
+        "original": "shime14.png",
+        "path": "assets/747-masaomi-kida/0013.png",
+        "sha256": "e19f1f0c9fec05a6ea87a9e4fce8adc6aecef078fde819589db736922839b64a"
+      },
+      {
+        "original": "shime15.png",
+        "path": "assets/747-masaomi-kida/0014.png",
+        "sha256": "3f31b1af8b534ac894d3400a8288a6f818a0759a68863795bd15b795ab86d20d"
+      },
+      {
+        "original": "shime16.png",
+        "path": "assets/747-masaomi-kida/0015.png",
+        "sha256": "3a18408be1c9e514c6bd5e7dfa73e32d642836da0896cc97ae6a1e9ef1550211"
+      },
+      {
+        "original": "shime17.png",
+        "path": "assets/747-masaomi-kida/0016.png",
+        "sha256": "45f56c47d4ec3276e903b52e9c363a4f71b50d635b0b3c0c1c51b84b0974a276"
+      },
+      {
+        "original": "shime18.png",
+        "path": "assets/747-masaomi-kida/0017.png",
+        "sha256": "37fb4d236828b7cc0c1496de6d5af752a83ffc3cea4cfd04070db19f6f1a24b4"
+      },
+      {
+        "original": "shime19.png",
+        "path": "assets/747-masaomi-kida/0018.png",
+        "sha256": "5b091225225819d3ac23558c473d46b0678069c027f5020951e4323f76937826"
+      },
+      {
+        "original": "shime20.png",
+        "path": "assets/747-masaomi-kida/0019.png",
+        "sha256": "9e89abd0f8ec0b228b709b4d77ec6c6ffc563b54f0c8a9bce39bb8deb75659d0"
+      },
+      {
+        "original": "shime21.png",
+        "path": "assets/747-masaomi-kida/0020.png",
+        "sha256": "33522a02876554005b3bcb3b4b3032bf6e530b6aa605ca883d1841b5e2a23a1b"
+      },
+      {
+        "original": "shime22.png",
+        "path": "assets/747-masaomi-kida/0021.png",
+        "sha256": "bceee4068f1c83b128d3bb7f4b11b643360927301611252086dd85737e1a1909"
+      },
+      {
+        "original": "shime23.png",
+        "path": "assets/747-masaomi-kida/0022.png",
+        "sha256": "cf9e38f1b1dae78640281ba3e6c68adc744bf980789654ce4cce05d27e0e37e7"
+      },
+      {
+        "original": "shime24.png",
+        "path": "assets/747-masaomi-kida/0023.png",
+        "sha256": "d8c7e553573fb4c72bcf69ede8a619f41dbf6b191f7c0c18dfc91e885d4da1db"
+      },
+      {
+        "original": "shime25.png",
+        "path": "assets/747-masaomi-kida/0024.png",
+        "sha256": "9a5a5f47a74efcbd3501563f456a6e6ee7dbc2477967f201e54c79cc9d56ba44"
+      },
+      {
+        "original": "shime26.png",
+        "path": "assets/747-masaomi-kida/0025.png",
+        "sha256": "149260e1761a75772bb69b0261829fb9fb78ae9fb5b796e7230d5244411a1c18"
+      },
+      {
+        "original": "shime27.png",
+        "path": "assets/747-masaomi-kida/0026.png",
+        "sha256": "dfc217faf5c56773475fd41cff49558aa1716e6d4ed958276310655abbe7b50d"
+      },
+      {
+        "original": "shime28.png",
+        "path": "assets/747-masaomi-kida/0027.png",
+        "sha256": "e21bf11b2aa642ae63d7e3aa83edc0abaf6536d70c778862fcec1600bfb00696"
+      },
+      {
+        "original": "shime29.png",
+        "path": "assets/747-masaomi-kida/0028.png",
+        "sha256": "e21bf11b2aa642ae63d7e3aa83edc0abaf6536d70c778862fcec1600bfb00696"
+      },
+      {
+        "original": "shime30.png",
+        "path": "assets/747-masaomi-kida/0029.png",
+        "sha256": "2d8d96197c9368a3ccd2c32959481b85f0af5b129e2c50f33f1bb277c071557c"
+      },
+      {
+        "original": "shime31.png",
+        "path": "assets/747-masaomi-kida/0030.png",
+        "sha256": "c5ab002d008bc4753988f5cee5cf0d79038a523f0c888e80d0280a644dea94aa"
+      },
+      {
+        "original": "shime32.png",
+        "path": "assets/747-masaomi-kida/0031.png",
+        "sha256": "bf9a7bf110d5fb764b51a293da231d09b7184d82663cdb35e8f365aca710221f"
+      },
+      {
+        "original": "shime33.png",
+        "path": "assets/747-masaomi-kida/0032.png",
+        "sha256": "32611725755358cb8546591837df599bb4d5b21f6beff51a8b237e8fa6a9d473"
+      },
+      {
+        "original": "shime34.png",
+        "path": "assets/747-masaomi-kida/0033.png",
+        "sha256": "dc58e0f24e9c80be6237503da889b40f17952585bfe0a6c122ba59976a6d17c1"
+      },
+      {
+        "original": "shime35.png",
+        "path": "assets/747-masaomi-kida/0034.png",
+        "sha256": "56cd816d3b7b45a095e0b494430aba626d338b4250e9b6ac8f030875cfae8cf1"
+      },
+      {
+        "original": "shime36.png",
+        "path": "assets/747-masaomi-kida/0035.png",
+        "sha256": "5feee05089e1db98d7eaf453eac53eb7bdb807ea8a78fe69d8cd2a85801de4b4"
+      },
+      {
+        "original": "shime37.png",
+        "path": "assets/747-masaomi-kida/0036.png",
+        "sha256": "aec8b30ed7d9b473c95c4d0d80b7b3347bec595e41cbce2d4e07e4efced17ffd"
+      },
+      {
+        "original": "shime38.png",
+        "path": "assets/747-masaomi-kida/0037.png",
+        "sha256": "187417b5b5bf8e22b914dbd45cd98cf40818f18840912ec8c1701a19f947450d"
+      },
+      {
+        "original": "shime39.png",
+        "path": "assets/747-masaomi-kida/0038.png",
+        "sha256": "655fcba95ef939bd5bed14ee2a7e6af8bcac365e4386d9ea7244fe7d3170348f"
+      },
+      {
+        "original": "shime40.png",
+        "path": "assets/747-masaomi-kida/0039.png",
+        "sha256": "028d60fcbdf78abacd228677092b60d41b201ec91b5e4320067f25f4ee05345c"
+      },
+      {
+        "original": "shime41.png",
+        "path": "assets/747-masaomi-kida/0040.png",
+        "sha256": "aef9dae3c245d34421e5989b358e4e0574f6f68fc0356fda15e813def0a66bcb"
+      },
+      {
+        "original": "shime42.png",
+        "path": "assets/747-masaomi-kida/0041.png",
+        "sha256": "397ce37d14f2cd6a780a14457745e5e24672aec78920f94b58a48a8ba7cca2f1"
+      },
+      {
+        "original": "shime43.png",
+        "path": "assets/747-masaomi-kida/0042.png",
+        "sha256": "84633454820337d12e8d8e995b2417a507e37f33c0ff1753f2ccf20bfd53de7e"
+      },
+      {
+        "original": "shime44.png",
+        "path": "assets/747-masaomi-kida/0043.png",
+        "sha256": "63d9e69752b182476867ff8d2a5e79315a50c8f17d6b689b22369dc035203ec1"
+      },
+      {
+        "original": "shime45.png",
+        "path": "assets/747-masaomi-kida/0044.png",
+        "sha256": "2bd577abe8d62b279ef93911b4fee412e2de91f8a0674bd2b5404ecb33cd8b10"
+      },
+      {
+        "original": "shime46.png",
+        "path": "assets/747-masaomi-kida/0045.png",
+        "sha256": "d9f1552bd902ddc16c37bef0279f7e84dce7791dd83104f72dff30ce077334c7"
+      }
+    ],
+    "archive": "archives\\747-masaomi-kida.zip"
+  },
+  {
+    "row": 481,
+    "id": "746-tsugaru-kaikyo-fuyu-geshiki",
+    "name": "Tsugaru Kaikyo Fuyu Geshiki",
+    "category": "Anime",
+    "series": "Durarara",
+    "source": "https://www.shimejimascot.com/2023/06/tsugaru-kaikyo-fuyu-geshiki.html",
+    "drive": "",
+    "mega": "https://mega.nz/file/GdQFkI6Q#ZIEfQqC5dI_E8fXOo6F4QabnfVbawEujMKdr33sw9zI",
+    "status": "ok",
+    "files": [
+      {
+        "original": "shime1.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0000.png",
+        "sha256": "1cef7b0cd5d231f399b7611c406c2f1104571d42f249a2248a1fe936e3b30a4c"
+      },
+      {
+        "original": "shime2.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0001.png",
+        "sha256": "1b0f3e75f78e97c496e35bc11e8fbd1432e9a9079e20109da3f497f81c8aa895"
+      },
+      {
+        "original": "shime3.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0002.png",
+        "sha256": "ab25fab64664e595e47c6e7db4c63ecbe820fe6ea0ae1e78cbfdca5f40b42213"
+      },
+      {
+        "original": "shime4.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0003.png",
+        "sha256": "fea124e3cb1b038dbb8e27f2d2839fc13b7cc016c11a5c9443efc193cf1f0b98"
+      },
+      {
+        "original": "shime5.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0004.png",
+        "sha256": "25ce151e31a51af6577b1470a708f243434e9860a63d74dd5006fd016bb06fd7"
+      },
+      {
+        "original": "shime6.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0005.png",
+        "sha256": "454b21eb97ecb3fd7ba0cb218615bca0c4f0960731989a37d13494f465611986"
+      },
+      {
+        "original": "shime7.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0006.png",
+        "sha256": "211cb575ce2dc90c9ade6376023dc9d4cebc064209ed92eb6dd6ed79851c9a0c"
+      },
+      {
+        "original": "shime8.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0007.png",
+        "sha256": "2bff636136588cdfaa4ea13551a0e218ed58ba18727d86f795dc3c53c4873539"
+      },
+      {
+        "original": "shime9.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0008.png",
+        "sha256": "422a6bcb3848cce254943338712d9b6df8412c466d38dba969675bec2731356a"
+      },
+      {
+        "original": "shime10.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0009.png",
+        "sha256": "ba211489bf61c409f59e3aa89737ef56207293be7372aaa7c3e3c00083be11b9"
+      },
+      {
+        "original": "shime11.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0010.png",
+        "sha256": "8724d824b1a7dc0e0a342ec768a4723bc89e1293a6bae20fc90d7aeca32225f2"
+      },
+      {
+        "original": "shime12.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0011.png",
+        "sha256": "6c56c1caf8faca535ff2f6e0dc2af0e8bf74549c274d6dc3ec14c80b1c1c912b"
+      },
+      {
+        "original": "shime13.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0012.png",
+        "sha256": "54dbb232f1d3e8282f71ac6bcabe79256373f9053a93bd0c4c761f32658782c4"
+      },
+      {
+        "original": "shime14.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0013.png",
+        "sha256": "3d18b59aa4027da8e928ed5341cdc88360f2a661ec87d565a34e3be6a6655098"
+      },
+      {
+        "original": "shime15.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0014.png",
+        "sha256": "7f059070228e722496f33bdbb358ff0c1306f2f2b33018f24857f514381bb675"
+      },
+      {
+        "original": "shime16.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0015.png",
+        "sha256": "2bd86f670a2340d5fc8518bb3261b06e62ce4e6e330e6a770796477f9775a563"
+      },
+      {
+        "original": "shime17.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0016.png",
+        "sha256": "227fd28aa1bd57c3b29471af0891087eb6ed5613744f0773fbe9f8c200163370"
+      },
+      {
+        "original": "shime18.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0017.png",
+        "sha256": "c645b79fbd75a3fee5f151db7d867463f98d41a0ee2939b34d8e73c53cce2886"
+      },
+      {
+        "original": "shime19.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0018.png",
+        "sha256": "90e0bbc8730287833ef1626094f11d7e807273ef752eff7e2b9000c0044bcef7"
+      },
+      {
+        "original": "shime20.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0019.png",
+        "sha256": "4c67ab83dcf6d24a602c2b88336ca8a2e87a0900dad1236a33cf6a1ac1d67a89"
+      },
+      {
+        "original": "shime21.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0020.png",
+        "sha256": "4196d41cab5e42c0fc347eec1de5f5ab54b98a40ab3b056893276e3e84fd959a"
+      },
+      {
+        "original": "shime22.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0021.png",
+        "sha256": "dba2b9de9ced478b9115777b7af0985faeffeb61201f8598ada4c18d00bd5880"
+      },
+      {
+        "original": "shime23.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0022.png",
+        "sha256": "099f86d029bbbd8219eeba0bcd0e0aa3763dbdd495455baa119dcb3b9d815157"
+      },
+      {
+        "original": "shime24.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0023.png",
+        "sha256": "2923227ca0daec3bc6c38051487143ad991f487faa7c9be6b57a1874076c5d5e"
+      },
+      {
+        "original": "shime25.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0024.png",
+        "sha256": "544a111928250411486981bb94540890d34aa385d10b1791c96494ef56678bc4"
+      },
+      {
+        "original": "shime26.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0025.png",
+        "sha256": "e66c106ef26d78bd157921d92b31754d7e1ac1925d3fbdd260db361434fe85a9"
+      },
+      {
+        "original": "shime27.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0026.png",
+        "sha256": "bff9855770d7a85f55f9fd481b3a7b7f3a2da4035dd41d8d0c36fffed504b678"
+      },
+      {
+        "original": "shime28.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0027.png",
+        "sha256": "bff9855770d7a85f55f9fd481b3a7b7f3a2da4035dd41d8d0c36fffed504b678"
+      },
+      {
+        "original": "shime29.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0028.png",
+        "sha256": "0bd39086c1fbede71219747cba2800972797408b544f2c615f944b425d868107"
+      },
+      {
+        "original": "shime30.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0029.png",
+        "sha256": "459160d7acf72d40aaf78728f1928d7506ce2b032b5138a6b871a4b47dda86fe"
+      },
+      {
+        "original": "shime31.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0030.png",
+        "sha256": "be8d08e756c057cb33ff9cc6e0ccad8b7bcbe6aeb0961e0bec79167c5ee06052"
+      },
+      {
+        "original": "shime32.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0031.png",
+        "sha256": "553c02fb174155100e567629738e33b5b64f40498eea19988f9c64b84ee52f0a"
+      },
+      {
+        "original": "shime33.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0032.png",
+        "sha256": "137d853e038f6ce3844937cd6d0593e42ae45b682f341e6c25ce028bbccf5e14"
+      },
+      {
+        "original": "shime34.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0033.png",
+        "sha256": "241e4c8e71c37df05b1eecaa92e1af6dadd11f3fa710b535d4a84d5b931c333e"
+      },
+      {
+        "original": "shime35.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0034.png",
+        "sha256": "56769676c8154170bfb54f3fcc1bed1d639d3916d16999d1a17adc1ae5c66e49"
+      },
+      {
+        "original": "shime36.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0035.png",
+        "sha256": "a2ba0219da0c335179483b9cc18556fc46645265f5a303dc55341b760e55ff80"
+      },
+      {
+        "original": "shime37.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0036.png",
+        "sha256": "0f90ac7d11c8d08ada61b352345c75f288628d885670fad26076e1fd3253b6e3"
+      },
+      {
+        "original": "shime38.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0037.png",
+        "sha256": "33789595104a7671ff66c4ac4452c048c30ae36aa0be22bbdc48db414ee183b0"
+      },
+      {
+        "original": "shime39.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0038.png",
+        "sha256": "0e77d6b1464a1ca4935ae4b01b2728edf4cc73f828189220f60381c6e0257bcc"
+      },
+      {
+        "original": "shime40.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0039.png",
+        "sha256": "9bdc9cdaf0aab195889b33db0dcbacbca4875f4457126ddb98483355201513db"
+      },
+      {
+        "original": "shime41.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0040.png",
+        "sha256": "4f8aa19b05e26a8b9b810b5f67c4cef6425a0a956f0d4f2a57dde99279911104"
+      },
+      {
+        "original": "shime42.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0041.png",
+        "sha256": "ae86ca99df8bfb6c158f1eb014577fdb35d53f67e8e32fd5a85321fa413386a2"
+      },
+      {
+        "original": "shime43.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0042.png",
+        "sha256": "ae86ca99df8bfb6c158f1eb014577fdb35d53f67e8e32fd5a85321fa413386a2"
+      },
+      {
+        "original": "shime44.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0043.png",
+        "sha256": "82e059b0fbdacb0939f6c5cc715bdef8e37d474510704adbf935c48cf54e4f12"
+      },
+      {
+        "original": "shime45.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0044.png",
+        "sha256": "a1767360b93f4f2bc32823751819c7552d0ea7b4b9fd8fa7c3f041da29375ba4"
+      },
+      {
+        "original": "shime46.png",
+        "path": "assets/746-tsugaru-kaikyo-fuyu-geshiki/0045.png",
+        "sha256": "f61c2c926a073e29d30f476bf114116a51a0af80c417530b3b0331470f42deac"
+      }
+    ],
+    "archive": "archives\\746-tsugaru-kaikyo-fuyu-geshiki.zip"
+  },
+  {
+    "row": 654,
+    "id": "725-zoro",
+    "name": "Zoro",
+    "category": "Anime",
+    "series": "One Piece",
+    "source": "https://www.shimejimascot.com/2023/07/zoro.html",
+    "drive": "",
+    "mega": "https://mega.nz/file/TNJwFQyb#PgvI3xzg9BvYYYtNHMOZijkYg4_MCyKl0rdPD77Sdtg",
+    "status": "ok",
+    "files": [
+      {
+        "original": "shime1.png",
+        "path": "assets/725-zoro/0000.png",
+        "sha256": "4aa9426e86ca5e30db28793446c6617f07580397530be911cdd6208f2fe60152"
+      },
+      {
+        "original": "shime2.png",
+        "path": "assets/725-zoro/0001.png",
+        "sha256": "bbd598f37ac3035928ee5dd93addc951b966e558c8301cfb63796303d218e939"
+      },
+      {
+        "original": "shime3.png",
+        "path": "assets/725-zoro/0002.png",
+        "sha256": "6281ab24b35bacd3c64ee747cc9b6080672a01516c65a6ab7289fdc90b5220b8"
+      },
+      {
+        "original": "shime4.png",
+        "path": "assets/725-zoro/0003.png",
+        "sha256": "8eb04978d8f9e926f81a421f79aea217f2931040fe12da689a6632d08382fcee"
+      },
+      {
+        "original": "shime5.png",
+        "path": "assets/725-zoro/0004.png",
+        "sha256": "6057fe93d6007312e8a3c8307eed01eed9956cd7e7148a048000deb46668fb27"
+      },
+      {
+        "original": "shime6.png",
+        "path": "assets/725-zoro/0005.png",
+        "sha256": "2207addd4d39a7ce9917598931e50d187d44d9ccd982314e8b583137e387ef45"
+      },
+      {
+        "original": "shime7.png",
+        "path": "assets/725-zoro/0006.png",
+        "sha256": "9ed63176b3324926baa8c0a5475f2377240e65465db4ec3ba869f545df11e7e0"
+      },
+      {
+        "original": "shime8.png",
+        "path": "assets/725-zoro/0007.png",
+        "sha256": "9eb7bd3a9ca5671c14e220d98bfdc2bdf75945284dfdb5ed6e70a461eca66628"
+      },
+      {
+        "original": "shime9.png",
+        "path": "assets/725-zoro/0008.png",
+        "sha256": "5360688f74f1bea283b2215555aa81579bbcdcd1b831f68afb69e94c26a22d30"
+      },
+      {
+        "original": "shime10.png",
+        "path": "assets/725-zoro/0009.png",
+        "sha256": "fac4e84d4145710dc5224a7a4b635b12272d3696b89f9d956e6c97286ca55937"
+      },
+      {
+        "original": "shime11.png",
+        "path": "assets/725-zoro/0010.png",
+        "sha256": "055d965dc3aadcb9793900d8f87f4f3ff9e10ca50965b2d939eb6d2aa9ecaa1e"
+      },
+      {
+        "original": "shime12.png",
+        "path": "assets/725-zoro/0011.png",
+        "sha256": "49a351490955a86c549c610ccdf389e90789a7412bb99685c0945ba08aa1c5e6"
+      },
+      {
+        "original": "shime13.png",
+        "path": "assets/725-zoro/0012.png",
+        "sha256": "7d06c5f9a5df8db2ddfa9968b26bb8dadc3adbedd6c289b237064f71fd67aa8a"
+      },
+      {
+        "original": "shime14.png",
+        "path": "assets/725-zoro/0013.png",
+        "sha256": "2d4030c32c6bfaede2c5763273a13ae5c42b55132877095b76eea3a700dbaf37"
+      },
+      {
+        "original": "shime15.png",
+        "path": "assets/725-zoro/0014.png",
+        "sha256": "055d965dc3aadcb9793900d8f87f4f3ff9e10ca50965b2d939eb6d2aa9ecaa1e"
+      },
+      {
+        "original": "shime16.png",
+        "path": "assets/725-zoro/0015.png",
+        "sha256": "da7ca67c7f0d1156971dc6d2e7de65e05d8b728d8592827e25d344166f093b1b"
+      },
+      {
+        "original": "shime17.png",
+        "path": "assets/725-zoro/0016.png",
+        "sha256": "7c980d81f968707ad5bea3c5d46827e288a81fce4ac62c3ab15f04b1f320b8cb"
+      },
+      {
+        "original": "shime18.png",
+        "path": "assets/725-zoro/0017.png",
+        "sha256": "8a9b0dd119354abc079028a65f8caa5e002e6ff8af58b4a05dc120fb9b8341e5"
+      },
+      {
+        "original": "shime19.png",
+        "path": "assets/725-zoro/0018.png",
+        "sha256": "c63d204e9f7c1692214c5714c66b4aeb27285c044cae0667769cb959cc2f30f3"
+      },
+      {
+        "original": "shime20.png",
+        "path": "assets/725-zoro/0019.png",
+        "sha256": "969c19de1d2410e0d0a90bb195efa373e187ccc674344ddc52356ff84c72d00c"
+      },
+      {
+        "original": "shime21.png",
+        "path": "assets/725-zoro/0020.png",
+        "sha256": "35099947bb435689ab27e72350ee05f718434c9c1e4c86349c58165f38458a1c"
+      },
+      {
+        "original": "shime22.png",
+        "path": "assets/725-zoro/0021.png",
+        "sha256": "8eb04978d8f9e926f81a421f79aea217f2931040fe12da689a6632d08382fcee"
+      },
+      {
+        "original": "shime23.png",
+        "path": "assets/725-zoro/0022.png",
+        "sha256": "a030a74de8272da9470f4fcc8ad13b0609784f3217da8fd2b0a6561bebfd5126"
+      },
+      {
+        "original": "shime24.png",
+        "path": "assets/725-zoro/0023.png",
+        "sha256": "4ae42dadf03654c01d254b8fd0956136adc2b6c75feb1f731f9211ef9a73c2dd"
+      },
+      {
+        "original": "shime25.png",
+        "path": "assets/725-zoro/0024.png",
+        "sha256": "0a1729e6b8768cc49a58fcb3680b23c99274cfbcb10f4257ddb1f0cb414e5355"
+      },
+      {
+        "original": "shime26.png",
+        "path": "assets/725-zoro/0025.png",
+        "sha256": "969c19de1d2410e0d0a90bb195efa373e187ccc674344ddc52356ff84c72d00c"
+      },
+      {
+        "original": "shime27.png",
+        "path": "assets/725-zoro/0026.png",
+        "sha256": "35099947bb435689ab27e72350ee05f718434c9c1e4c86349c58165f38458a1c"
+      },
+      {
+        "original": "shime28.png",
+        "path": "assets/725-zoro/0027.png",
+        "sha256": "969c19de1d2410e0d0a90bb195efa373e187ccc674344ddc52356ff84c72d00c"
+      },
+      {
+        "original": "shime29.png",
+        "path": "assets/725-zoro/0028.png",
+        "sha256": "35099947bb435689ab27e72350ee05f718434c9c1e4c86349c58165f38458a1c"
+      },
+      {
+        "original": "shime30.png",
+        "path": "assets/725-zoro/0029.png",
+        "sha256": "055d965dc3aadcb9793900d8f87f4f3ff9e10ca50965b2d939eb6d2aa9ecaa1e"
+      },
+      {
+        "original": "shime31.png",
+        "path": "assets/725-zoro/0030.png",
+        "sha256": "da7ca67c7f0d1156971dc6d2e7de65e05d8b728d8592827e25d344166f093b1b"
+      },
+      {
+        "original": "shime32.png",
+        "path": "assets/725-zoro/0031.png",
+        "sha256": "7c980d81f968707ad5bea3c5d46827e288a81fce4ac62c3ab15f04b1f320b8cb"
+      },
+      {
+        "original": "shime33.png",
+        "path": "assets/725-zoro/0032.png",
+        "sha256": "055d965dc3aadcb9793900d8f87f4f3ff9e10ca50965b2d939eb6d2aa9ecaa1e"
+      },
+      {
+        "original": "shime34.png",
+        "path": "assets/725-zoro/0033.png",
+        "sha256": "4aa9426e86ca5e30db28793446c6617f07580397530be911cdd6208f2fe60152"
+      },
+      {
+        "original": "shime35.png",
+        "path": "assets/725-zoro/0034.png",
+        "sha256": "bbd598f37ac3035928ee5dd93addc951b966e558c8301cfb63796303d218e939"
+      },
+      {
+        "original": "shime36.png",
+        "path": "assets/725-zoro/0035.png",
+        "sha256": "6281ab24b35bacd3c64ee747cc9b6080672a01516c65a6ab7289fdc90b5220b8"
+      },
+      {
+        "original": "shime37.png",
+        "path": "assets/725-zoro/0036.png",
+        "sha256": "bbd598f37ac3035928ee5dd93addc951b966e558c8301cfb63796303d218e939"
+      },
+      {
+        "original": "shime38.png",
+        "path": "assets/725-zoro/0037.png",
+        "sha256": "6281ab24b35bacd3c64ee747cc9b6080672a01516c65a6ab7289fdc90b5220b8"
+      },
+      {
+        "original": "shime39.png",
+        "path": "assets/725-zoro/0038.png",
+        "sha256": "93aaabb1bdffbb7cb77d9f983a26b0f12f8ef933fd60cec518302b16cd348bef"
+      },
+      {
+        "original": "shime40.png",
+        "path": "assets/725-zoro/0039.png",
+        "sha256": "7ec0fbc6644dc513b6707047edbc464cc8fef109ec92f8d32ea898b750a49b30"
+      },
+      {
+        "original": "shime41.png",
+        "path": "assets/725-zoro/0040.png",
+        "sha256": "1c3d125683a77ada20e0c0a8a83e5463c6b2be1b6cb9d10e6676ac40b5d82b34"
+      },
+      {
+        "original": "shime42.png",
+        "path": "assets/725-zoro/0041.png",
+        "sha256": "fc7965b861b4aa630bff54b74d3272f6f7915e289ce16704aaec0ba2359d4b79"
+      },
+      {
+        "original": "shime43.png",
+        "path": "assets/725-zoro/0042.png",
+        "sha256": "2884523c0931080f515de0a88b8213ea8daa8685d7780d65cd438e42acbe8b8b"
+      },
+      {
+        "original": "shime44.png",
+        "path": "assets/725-zoro/0043.png",
+        "sha256": "20903dd1cefd24ee9b1134d72e7df4182fba63423f6b0211a061be1bdbf46b21"
+      },
+      {
+        "original": "shime45.png",
+        "path": "assets/725-zoro/0044.png",
+        "sha256": "117f72704540c5b942a4f0ae12e7ece8325e3130969b8612e2919c9e91db95d5"
+      },
+      {
+        "original": "shime46.png",
+        "path": "assets/725-zoro/0045.png",
+        "sha256": "0fc3377a2de812862017ba02a675ba3fce5af99f5b5f0c59487e406f2ad841c2"
+      }
+    ],
+    "archive": "archives\\725-zoro.zip"
+  },
+  {
+    "row": 960,
+    "id": "742-toy-bonnie",
+    "name": "Toy Bonnie",
+    "category": "Horror",
+    "series": "Five Nights at Freddy's",
+    "source": "https://www.shimejimascot.com/2023/06/toy-bonnie.html",
+    "drive": "",
+    "mega": "https://mega.nz/file/PI4kmTTB#8FJ1vQQdEMPv33K1ASliKY-JQQm4J7UV5d8UGtmdtWU",
+    "status": "ok",
+    "files": [
+      {
+        "original": "shime1.png",
+        "path": "assets/742-toy-bonnie/0000.png",
+        "sha256": "c0c6b9ca6c14099b32bbb091aaa1d1a9252f0631d5cef839d1da2b2fc6780b45"
+      },
+      {
+        "original": "shime2.png",
+        "path": "assets/742-toy-bonnie/0001.png",
+        "sha256": "11ef4c6d716c0b8e26221f500b9064c53f2576debf265cd211465f19c212c110"
+      },
+      {
+        "original": "shime3.png",
+        "path": "assets/742-toy-bonnie/0002.png",
+        "sha256": "29bc0c842bd4a720c3bf19c5953909fc8a31d666a525c7799f242d05b64ad45a"
+      },
+      {
+        "original": "shime4.png",
+        "path": "assets/742-toy-bonnie/0003.png",
+        "sha256": "cb446db6cfee9b587db5d50889cad34ba37ca92dd8d915a046a6608d66b6fd30"
+      },
+      {
+        "original": "shime5.png",
+        "path": "assets/742-toy-bonnie/0004.png",
+        "sha256": "3b69fa7959ee1994311454076719a3f5097be409ac9ef046e20a137b5c89edbf"
+      },
+      {
+        "original": "shime6.png",
+        "path": "assets/742-toy-bonnie/0005.png",
+        "sha256": "ebc1aedfbabffaee6d4adfee881741e56142391b9ac772a2a0a016a34c4876be"
+      },
+      {
+        "original": "shime7.png",
+        "path": "assets/742-toy-bonnie/0006.png",
+        "sha256": "3b69fa7959ee1994311454076719a3f5097be409ac9ef046e20a137b5c89edbf"
+      },
+      {
+        "original": "shime8.png",
+        "path": "assets/742-toy-bonnie/0007.png",
+        "sha256": "ebc1aedfbabffaee6d4adfee881741e56142391b9ac772a2a0a016a34c4876be"
+      },
+      {
+        "original": "shime9.png",
+        "path": "assets/742-toy-bonnie/0008.png",
+        "sha256": "3b69fa7959ee1994311454076719a3f5097be409ac9ef046e20a137b5c89edbf"
+      },
+      {
+        "original": "shime10.png",
+        "path": "assets/742-toy-bonnie/0009.png",
+        "sha256": "ebc1aedfbabffaee6d4adfee881741e56142391b9ac772a2a0a016a34c4876be"
+      },
+      {
+        "original": "shime11.png",
+        "path": "assets/742-toy-bonnie/0010.png",
+        "sha256": "9ebe741d913f66ad1879378b2212f69954c81edd860a0ed44986bb65153948a1"
+      },
+      {
+        "original": "shime12.png",
+        "path": "assets/742-toy-bonnie/0011.png",
+        "sha256": "e8017cea2069ce3cb980a012481aef9230c737eea5d7c3918e139b6283c4e5a0"
+      },
+      {
+        "original": "shime13.png",
+        "path": "assets/742-toy-bonnie/0012.png",
+        "sha256": "8226f2d8db649786e547dafd78334eaf0d2b92cf0ee7f8060cc4d30dcadc4d73"
+      },
+      {
+        "original": "shime14.png",
+        "path": "assets/742-toy-bonnie/0013.png",
+        "sha256": "191e1c6dd2adafd8956c5a2ba72f4b5f2c79f81f72014bed899983259de97e95"
+      },
+      {
+        "original": "shime15.png",
+        "path": "assets/742-toy-bonnie/0014.png",
+        "sha256": "a0f3f7118bbfe80845f00920652474eff3e7d588f4fc04169e9c6059fa99898b"
+      },
+      {
+        "original": "shime16.png",
+        "path": "assets/742-toy-bonnie/0015.png",
+        "sha256": "bc785049b7712922a7b7ec558a0024d45a01de718329a2a090ab64c4aaed60f6"
+      },
+      {
+        "original": "shime17.png",
+        "path": "assets/742-toy-bonnie/0016.png",
+        "sha256": "843231cfff8cdcd10568bb98a66468b26fa752658762472af97bb95e80da3b8b"
+      },
+      {
+        "original": "shime18.png",
+        "path": "assets/742-toy-bonnie/0017.png",
+        "sha256": "16d8f962d55be704686dcb7eda1563945a0b748f35041aa0b3f2b9c955600b6b"
+      },
+      {
+        "original": "shime19.png",
+        "path": "assets/742-toy-bonnie/0018.png",
+        "sha256": "90b7fb30add6791da7dccbf3ee04fc5f8048c8b48377eece4da780d62b240301"
+      },
+      {
+        "original": "shime20.png",
+        "path": "assets/742-toy-bonnie/0019.png",
+        "sha256": "da94656aa5d3295e80cf5a72f38aa28c0ab3547c2ba3181131a2c5cc6d19921c"
+      },
+      {
+        "original": "shime21.png",
+        "path": "assets/742-toy-bonnie/0020.png",
+        "sha256": "435c2e5ef26c6b1622d8a4b2a98f9148193a25ffac81b8c8259cdd0763487024"
+      },
+      {
+        "original": "shime22.png",
+        "path": "assets/742-toy-bonnie/0021.png",
+        "sha256": "a34259867ce77e60201256941c558000db6db8851ed66f33d4cc5a3f7462d34a"
+      },
+      {
+        "original": "shime23.png",
+        "path": "assets/742-toy-bonnie/0022.png",
+        "sha256": "f1bf58c0199a99a505d9bc77ed1702d2f707f0dfc94d9887e881dc533a9a878f"
+      },
+      {
+        "original": "shime24.png",
+        "path": "assets/742-toy-bonnie/0023.png",
+        "sha256": "40f8834e07563b550e43eebcecb922e9d3d96ee7f182571b2abefd7844cd97f0"
+      },
+      {
+        "original": "shime25.png",
+        "path": "assets/742-toy-bonnie/0024.png",
+        "sha256": "adaf8cc7f82152f0fb06a51e750164afe567ebf714b678dee7f07f43484de72f"
+      },
+      {
+        "original": "shime26.png",
+        "path": "assets/742-toy-bonnie/0025.png",
+        "sha256": "a0f3f7118bbfe80845f00920652474eff3e7d588f4fc04169e9c6059fa99898b"
+      },
+      {
+        "original": "shime27.png",
+        "path": "assets/742-toy-bonnie/0026.png",
+        "sha256": "a0f3f7118bbfe80845f00920652474eff3e7d588f4fc04169e9c6059fa99898b"
+      },
+      {
+        "original": "shime28.png",
+        "path": "assets/742-toy-bonnie/0027.png",
+        "sha256": "bc785049b7712922a7b7ec558a0024d45a01de718329a2a090ab64c4aaed60f6"
+      },
+      {
+        "original": "shime29.png",
+        "path": "assets/742-toy-bonnie/0028.png",
+        "sha256": "843231cfff8cdcd10568bb98a66468b26fa752658762472af97bb95e80da3b8b"
+      },
+      {
+        "original": "shime30.png",
+        "path": "assets/742-toy-bonnie/0029.png",
+        "sha256": "ea9b81c32a553fccfa83abfa9e484f859b5a4c52b10814717965e4590aa9b101"
+      },
+      {
+        "original": "shime31.png",
+        "path": "assets/742-toy-bonnie/0030.png",
+        "sha256": "54edaea0b86ceb7dcbb035404752ea13b6560865f9b00f2344a24f889a820dd7"
+      },
+      {
+        "original": "shime32.png",
+        "path": "assets/742-toy-bonnie/0031.png",
+        "sha256": "ea9b81c32a553fccfa83abfa9e484f859b5a4c52b10814717965e4590aa9b101"
+      },
+      {
+        "original": "shime33.png",
+        "path": "assets/742-toy-bonnie/0032.png",
+        "sha256": "54edaea0b86ceb7dcbb035404752ea13b6560865f9b00f2344a24f889a820dd7"
+      },
+      {
+        "original": "shime34.png",
+        "path": "assets/742-toy-bonnie/0033.png",
+        "sha256": "fe61320330be542160a7ed13ca41042e40e18e9d1c96deb3cc67606d5df1c222"
+      },
+      {
+        "original": "shime35.png",
+        "path": "assets/742-toy-bonnie/0034.png",
+        "sha256": "fe61320330be542160a7ed13ca41042e40e18e9d1c96deb3cc67606d5df1c222"
+      },
+      {
+        "original": "shime36.png",
+        "path": "assets/742-toy-bonnie/0035.png",
+        "sha256": "9af89e14186d7b4c35ee4e05252de400ed24f2def7f881de72a555af810f66f3"
+      },
+      {
+        "original": "shime37.png",
+        "path": "assets/742-toy-bonnie/0036.png",
+        "sha256": "e62363e01c0c22aab2744e9982993e0b38d828bcb07c94fada82e2ef7a4b5aa4"
+      },
+      {
+        "original": "shime38.png",
+        "path": "assets/742-toy-bonnie/0037.png",
+        "sha256": "4ffa90e911a510b87165f5c07dfd49320a24b409ae6c0c03fd8eac5d01d54465"
+      },
+      {
+        "original": "shime39.png",
+        "path": "assets/742-toy-bonnie/0038.png",
+        "sha256": "679aa28f15df8858d429f4edef8dda85aa1eb031d4f5bfa2949cf0829d9df810"
+      },
+      {
+        "original": "shime40.png",
+        "path": "assets/742-toy-bonnie/0039.png",
+        "sha256": "9dd98e8cf310f4caf6b96a6ef8e85d02cb0ddcc5d6b82a56cb563fdac645f21f"
+      },
+      {
+        "original": "shime41.png",
+        "path": "assets/742-toy-bonnie/0040.png",
+        "sha256": "10ac2ca5b41921ed17128d7a1f0ff5c3fe8d4faa4f04d67125c9a8f84af2be4d"
+      },
+      {
+        "original": "shime42.png",
+        "path": "assets/742-toy-bonnie/0041.png",
+        "sha256": "b9dc6c4d27335307652b58c7010ef3efc10b158baec5eeae97219bac33b2642b"
+      },
+      {
+        "original": "shime43.png",
+        "path": "assets/742-toy-bonnie/0042.png",
+        "sha256": "6e8c8a7ad3dffb100cb99740c35b9e40889eda286aa20d7cbb3f9b79569c669d"
+      },
+      {
+        "original": "shime44.png",
+        "path": "assets/742-toy-bonnie/0043.png",
+        "sha256": "a50e838b96b704755d21dfe7d8754b14dccf6a87c60b4b3ada9679e6e51914dc"
+      },
+      {
+        "original": "shime45.png",
+        "path": "assets/742-toy-bonnie/0044.png",
+        "sha256": "4ce54ba6397465f06bd634368bcb715aff7dbe33a925e148b56c45a6809075d9"
+      },
+      {
+        "original": "shime46.png",
+        "path": "assets/742-toy-bonnie/0045.png",
+        "sha256": "a984cdcefaab7640b0de20e2b557e7cd94fba159e4993d43059be77743cb34f1"
+      }
+    ],
+    "archive": "archives\\742-toy-bonnie.zip"
+  },
+  {
+    "row": 1013,
+    "id": "723-link",
+    "name": "Link",
+    "category": "Creators",
+    "series": "Youtuber",
+    "source": "https://www.shimejimascot.com/2023/07/link.html",
+    "drive": "",
+    "mega": "https://mega.nz/file/bNwmwQII#So7UJpRyC9LNdKjDYP326M17VGFftrBkYsObYo6JpJo",
+    "status": "ok",
+    "files": [
+      {
+        "original": "shime1.png",
+        "path": "assets/723-link/0000.png",
+        "sha256": "57ed6ec4c35218342a2da31b7da06ff01e93d2853b9502cb45739f0ffcbaf56b"
+      },
+      {
+        "original": "shime2.png",
+        "path": "assets/723-link/0001.png",
+        "sha256": "e6fa24e757be9334fef63dc2cc17885886d988f9b2c2d853a910b5dfef4579da"
+      },
+      {
+        "original": "shime3.png",
+        "path": "assets/723-link/0002.png",
+        "sha256": "a98309303f41855f0b008ea70bf6c2f984898de5081d5cc09d49ed7e6829badb"
+      },
+      {
+        "original": "shime4.png",
+        "path": "assets/723-link/0003.png",
+        "sha256": "8485dd283b68c24766e9c0f3f3d810f15a83b8201cf85d2b69781e4686b1eb51"
+      },
+      {
+        "original": "shime5.png",
+        "path": "assets/723-link/0004.png",
+        "sha256": "3351d4fe03ccdd420aee73c555fedfdac8f1d46806859197caed0c12d14db12a"
+      },
+      {
+        "original": "shime6.png",
+        "path": "assets/723-link/0005.png",
+        "sha256": "08a3ed44dd91f2d73963176b357679a3661c0ee4f2a685f2698eb8b7e4ccec62"
+      },
+      {
+        "original": "shime7.png",
+        "path": "assets/723-link/0006.png",
+        "sha256": "71ee2c8316db80daa65f01f80a4196c15e0a9752859d0ab4ac3d7f3722a28e4a"
+      },
+      {
+        "original": "shime8.png",
+        "path": "assets/723-link/0007.png",
+        "sha256": "0cbababf513ead964b4a82f6863ce2310da49cc29458a59e44755146119c209b"
+      },
+      {
+        "original": "shime9.png",
+        "path": "assets/723-link/0008.png",
+        "sha256": "0c1f1aafacd3fe4aa209e0a4881187c92a0f7f5db43cba270c768606b2ce3a5f"
+      },
+      {
+        "original": "shime10.png",
+        "path": "assets/723-link/0009.png",
+        "sha256": "f78c8543061cf860ead74c00a7c3f1b97490ac15482f878db72ddbc196cabbde"
+      },
+      {
+        "original": "shime11.png",
+        "path": "assets/723-link/0010.png",
+        "sha256": "0cd2e5e8dcafa74b9ef6f0bde94515ebde8546f5f1bb51541405f795b20d69e9"
+      },
+      {
+        "original": "shime12.png",
+        "path": "assets/723-link/0011.png",
+        "sha256": "44c988d26b876e547f195f5397b4bc4d705d805a8488a05cfbe2f3b45c89136c"
+      },
+      {
+        "original": "shime13.png",
+        "path": "assets/723-link/0012.png",
+        "sha256": "7f7d0962674264013aff3813baea46f3290829ef3941420d374fd2f2784e03a4"
+      },
+      {
+        "original": "shime14.png",
+        "path": "assets/723-link/0013.png",
+        "sha256": "c753b663984bea4a8049d91bf0ce4714dd29014e1c4798c6664e569faee864a6"
+      },
+      {
+        "original": "shime15.png",
+        "path": "assets/723-link/0014.png",
+        "sha256": "e647e227ffe4da032c8130f8bfa3410006ad78a8d8145e4e4998cb6246d28d30"
+      },
+      {
+        "original": "shime16.png",
+        "path": "assets/723-link/0015.png",
+        "sha256": "a5b56e3359ea3a8efb32952fac53d38b8c68a6651e87e02816a89acea2e8ea4b"
+      },
+      {
+        "original": "shime17.png",
+        "path": "assets/723-link/0016.png",
+        "sha256": "4a0bd1b93a949dec70ae20b0c15fb850b002f5c3fba0eebb7f93f1dd666a2f56"
+      },
+      {
+        "original": "shime18.png",
+        "path": "assets/723-link/0017.png",
+        "sha256": "79f08134eb15aaae089399f8b0944d35208cabd78c426f07dfe3465c59ca287c"
+      },
+      {
+        "original": "shime19.png",
+        "path": "assets/723-link/0018.png",
+        "sha256": "128e66c0c4ac6ed38a90bb87ac2df9c2e6f029201f42f468ebc128909d428e38"
+      },
+      {
+        "original": "shime20.png",
+        "path": "assets/723-link/0019.png",
+        "sha256": "54e4dfe28d1ce3125db966eab75c84dcd991b04830539183e07cd3292bed31b4"
+      },
+      {
+        "original": "shime21.png",
+        "path": "assets/723-link/0020.png",
+        "sha256": "3b6c76cb4b5a4087be592b0859599d1a6a08fc42cb10219c5afae08fe219af7b"
+      },
+      {
+        "original": "shime22.png",
+        "path": "assets/723-link/0021.png",
+        "sha256": "2cebd8b66dd823d1a98760574cf7119c8c7e96fa49160ec166636b2b23a735bd"
+      },
+      {
+        "original": "shime23.png",
+        "path": "assets/723-link/0022.png",
+        "sha256": "c07b494baf5741695a19212136393a80eb826162ca47a7b044ce2eb6d0df59d8"
+      },
+      {
+        "original": "shime24.png",
+        "path": "assets/723-link/0023.png",
+        "sha256": "dabdbf915ba47138718885c59ca0440c007f26f788843de6a9ef7ed197732b74"
+      },
+      {
+        "original": "shime25.png",
+        "path": "assets/723-link/0024.png",
+        "sha256": "ea022b1976ce519a76b9dd5229b8e5b0a144e60685f4bb87883b088e3f3b4d63"
+      },
+      {
+        "original": "shime26.png",
+        "path": "assets/723-link/0025.png",
+        "sha256": "e2acce7781f3be9496b3baeac89c086ab34d858539c90f68cec5435f09be1eee"
+      },
+      {
+        "original": "shime27.png",
+        "path": "assets/723-link/0026.png",
+        "sha256": "e2acce7781f3be9496b3baeac89c086ab34d858539c90f68cec5435f09be1eee"
+      },
+      {
+        "original": "shime28.png",
+        "path": "assets/723-link/0027.png",
+        "sha256": "7955b23acb304fda1100f41575cd3905fa66d2e3aa7c8cb8ed0900195e89e215"
+      },
+      {
+        "original": "shime29.png",
+        "path": "assets/723-link/0028.png",
+        "sha256": "7b2537bb0b1f8c91d8007e97d85087decf4f63e3c57fc7f05f5818f42f398621"
+      },
+      {
+        "original": "shime30.png",
+        "path": "assets/723-link/0029.png",
+        "sha256": "a217069e0f1195a14ca3ffb920039744918d4d3b398006fd7ba3eff78fcfe3a1"
+      },
+      {
+        "original": "shime31.png",
+        "path": "assets/723-link/0030.png",
+        "sha256": "2880f34ce23472c877a76354b11e4855e6e8f065a76a29deba9c378ae7803764"
+      },
+      {
+        "original": "shime32.png",
+        "path": "assets/723-link/0031.png",
+        "sha256": "7ec770e6abf3f9d660732d29ecd0ce7289c9c8056ac710c6c4f791b7208647e0"
+      },
+      {
+        "original": "shime33.png",
+        "path": "assets/723-link/0032.png",
+        "sha256": "2ed2007d81d02b3d79f1113fab86f06d229cda2099782e39b648a10eb8b4da46"
+      },
+      {
+        "original": "shime34.png",
+        "path": "assets/723-link/0033.png",
+        "sha256": "82c229df55fa2641df6c082763818fabcf7b6094b97eb8715b366a507ed4a874"
+      },
+      {
+        "original": "shime35.png",
+        "path": "assets/723-link/0034.png",
+        "sha256": "c5f958bedab38fe4d3c6c076dafdbbcf30df0bb1c5d249f87557c24d8c344bae"
+      },
+      {
+        "original": "shime36.png",
+        "path": "assets/723-link/0035.png",
+        "sha256": "63f1740313d39d8fe3ea2e0a990138fa868387e2a1b2c69170a2d8a49b800495"
+      },
+      {
+        "original": "shime37.png",
+        "path": "assets/723-link/0036.png",
+        "sha256": "9286f7ecec613c2628f90cf948f6dd9c0c0019274c97a3b11212f7a4ff415ba6"
+      },
+      {
+        "original": "shime38.png",
+        "path": "assets/723-link/0037.png",
+        "sha256": "17d837e37f54de02c6427da026b22a9538477984e2caebc1646721b82ed0e797"
+      },
+      {
+        "original": "shime39.png",
+        "path": "assets/723-link/0038.png",
+        "sha256": "091f069decd6c633ece804f8ebf3fd5f7f9f77dd4610ddb0b586a63dc2495a23"
+      },
+      {
+        "original": "shime40.png",
+        "path": "assets/723-link/0039.png",
+        "sha256": "9bb64c7194d30cd1c4831639e9bff0e6246ea0dd30be7a7e52e77080e1b3efa6"
+      },
+      {
+        "original": "shime41.png",
+        "path": "assets/723-link/0040.png",
+        "sha256": "647816656b22deea97c84fc9494e05993f1060116ed1b9a9bd3bd191093c78b1"
+      },
+      {
+        "original": "shime42.png",
+        "path": "assets/723-link/0041.png",
+        "sha256": "7ddb4f7ec7979890605031367b6220980f727c512ae0bfb27923e08c982a9665"
+      },
+      {
+        "original": "shime43.png",
+        "path": "assets/723-link/0042.png",
+        "sha256": "b26c13db2a2eb71ca7def799f4d15d5a1d1ffed9a95df4b694825ce837e72d38"
+      },
+      {
+        "original": "shime44.png",
+        "path": "assets/723-link/0043.png",
+        "sha256": "dc200eb7c06115cf1750ad9e9ad57da2e4c1f84aa8358a36266c3e4a3cb07d38"
+      },
+      {
+        "original": "shime45.png",
+        "path": "assets/723-link/0044.png",
+        "sha256": "456506baeb596c56c7435eeeb56d64703073065c8bb1978cc1fa188514add2bc"
+      },
+      {
+        "original": "shime46.png",
+        "path": "assets/723-link/0045.png",
+        "sha256": "27f2aa815e7c2e5b4434729f736e95fccf105201ea20e640aaedaccb8f8a7f95"
+      }
+    ],
+    "archive": "archives\\723-link.zip"
+  },
+  {
+    "row": 927,
+    "id": "1046-eyeless-jack",
+    "name": "Eyeless Jack",
+    "category": "Horror",
+    "series": "Creepypasta",
+    "source": "https://www.shimejimascot.com/2023/01/eyeless-jack.html",
+    "drive": "",
+    "mega": "https://mega.nz/file/aQAhjCZJ#eLFxbDT_TfVeBqscCrlrGYvSq4d6K7tTGsfbjLqyG-Y",
+    "status": "ok",
+    "files": [
+      {
+        "original": "shime1.png",
+        "path": "assets/1046-eyeless-jack/0000.png",
+        "sha256": "2bf4dcb6e5919e3bf4213bd7fe99de291d2d7d1292af5199790c225d85681fd5"
+      },
+      {
+        "original": "shime2.png",
+        "path": "assets/1046-eyeless-jack/0001.png",
+        "sha256": "ab3f439359fa6aa94a00445f1d6c53be0b6538f42df351676d2608b9df850c0d"
+      },
+      {
+        "original": "shime3.png",
+        "path": "assets/1046-eyeless-jack/0002.png",
+        "sha256": "36b43e813f291735da6d853cd60589ff6e60d7f4f60b269508a4d0b4af7ebea5"
+      },
+      {
+        "original": "shime4.png",
+        "path": "assets/1046-eyeless-jack/0003.png",
+        "sha256": "1716ee927773bbc4b852791f9b068c3a14b4cd1092a9ef4b42c88581dd3d53a0"
+      },
+      {
+        "original": "shime5.png",
+        "path": "assets/1046-eyeless-jack/0004.png",
+        "sha256": "015df0bdb44a2706bb78413a381ec82d5d9a709fb61aabeb2f79bd8edabc4644"
+      },
+      {
+        "original": "shime6.png",
+        "path": "assets/1046-eyeless-jack/0005.png",
+        "sha256": "cb4e04f078ddc7d394f29eb67f7b3bf2deb12040e7e797e22e7cdcabbdfd017f"
+      },
+      {
+        "original": "shime7.png",
+        "path": "assets/1046-eyeless-jack/0006.png",
+        "sha256": "94cb37d433ba5aba03f5be2ed127ab81645d6f56ed70ac930162244c49e73518"
+      },
+      {
+        "original": "shime8.png",
+        "path": "assets/1046-eyeless-jack/0007.png",
+        "sha256": "07e7d6a5deccd4be8301245cd76dbad8423d4a00021c4480b8b3aabf0ae3543b"
+      },
+      {
+        "original": "shime9.png",
+        "path": "assets/1046-eyeless-jack/0008.png",
+        "sha256": "d4260bcb6ee489e5842b34a30dae75d86fa1060cf2ee9e8c1367b1c1d30410f9"
+      },
+      {
+        "original": "shime10.png",
+        "path": "assets/1046-eyeless-jack/0009.png",
+        "sha256": "6ec42150789d9bd2fa3e6510d90647f12a4252ba5ebf932b90121350ec485b69"
+      },
+      {
+        "original": "shime11.png",
+        "path": "assets/1046-eyeless-jack/0010.png",
+        "sha256": "e3172990d1a33e61e66f428719f6f4720af7c290436ad79a01881e0b41ce77df"
+      },
+      {
+        "original": "shime12.png",
+        "path": "assets/1046-eyeless-jack/0011.png",
+        "sha256": "2861e65068a563b7540193b5136b8b45100e1f40218dee6ed09507467df742ef"
+      },
+      {
+        "original": "shime13.png",
+        "path": "assets/1046-eyeless-jack/0012.png",
+        "sha256": "425c9c397c979cedf07ff71fcc6367a3ea3ea03412f5f7d505f4d4dcad683103"
+      },
+      {
+        "original": "shime14.png",
+        "path": "assets/1046-eyeless-jack/0013.png",
+        "sha256": "137721ff8d78d60be04dfbf949444bc75bc64a299603bab30ca9b9512e41bca8"
+      },
+      {
+        "original": "shime15.png",
+        "path": "assets/1046-eyeless-jack/0014.png",
+        "sha256": "b6c58e4aaedf3f93f153856a09c550767b5ace29a42c133299b70db7c9c491de"
+      },
+      {
+        "original": "shime16.png",
+        "path": "assets/1046-eyeless-jack/0015.png",
+        "sha256": "8de0eb2be27d6ef6abf764f384b315a0343d09e01896c74f67aac03bc53d1c44"
+      },
+      {
+        "original": "shime17.png",
+        "path": "assets/1046-eyeless-jack/0016.png",
+        "sha256": "1f18a834d8397b0c9c15e075a2621de508b2601b4294f2d761c946a7b173f404"
+      },
+      {
+        "original": "shime18.png",
+        "path": "assets/1046-eyeless-jack/0017.png",
+        "sha256": "87aa4519c39bbe3906b860dc3927d6bdfb99500cf9a2833a758c8e97768e43b3"
+      },
+      {
+        "original": "shime19.png",
+        "path": "assets/1046-eyeless-jack/0018.png",
+        "sha256": "a714d6eeaab2689e372cf3cf26731e98f24100256d49261432efdfd6daa65b8c"
+      },
+      {
+        "original": "shime20.png",
+        "path": "assets/1046-eyeless-jack/0019.png",
+        "sha256": "b7330846751fb57e83f11980fa62fc9839967a990c458d04f7be5bbaa15aace0"
+      },
+      {
+        "original": "shime21.png",
+        "path": "assets/1046-eyeless-jack/0020.png",
+        "sha256": "0c2191dd5de78bbfa564b807548233bf4d8bc8e9319aa98a3d1fa38ea9f7ad0c"
+      },
+      {
+        "original": "shime22.png",
+        "path": "assets/1046-eyeless-jack/0021.png",
+        "sha256": "a6a1c7cb1b8c5df79ec2421a98763da3f646652b5388844ff178e8779acb2c63"
+      },
+      {
+        "original": "shime23.png",
+        "path": "assets/1046-eyeless-jack/0022.png",
+        "sha256": "aad70cfb06a33bb5edcf5295512c49ce1b5e7df4130f8ecf251c2da4de2c3c50"
+      },
+      {
+        "original": "shime24.png",
+        "path": "assets/1046-eyeless-jack/0023.png",
+        "sha256": "700b6c8dfd594107e73571034c4f5093e59f4e334cd4ac366735a73daca0e05f"
+      },
+      {
+        "original": "shime25.png",
+        "path": "assets/1046-eyeless-jack/0024.png",
+        "sha256": "614ac6adbefed2dba91ffab49a31b07862182ce32eb100032999e7173aa3867b"
+      },
+      {
+        "original": "shime26.png",
+        "path": "assets/1046-eyeless-jack/0025.png",
+        "sha256": "06ce861b72d2d9f2992a300f6a311c5fc7b1d1579c551648658de569e61e1b42"
+      },
+      {
+        "original": "shime27.png",
+        "path": "assets/1046-eyeless-jack/0026.png",
+        "sha256": "80c29710949ddbc2b57af196e62166fbd430cf8a8e84e962c5f2012a9be88280"
+      },
+      {
+        "original": "shime28.png",
+        "path": "assets/1046-eyeless-jack/0027.png",
+        "sha256": "8de0eb2be27d6ef6abf764f384b315a0343d09e01896c74f67aac03bc53d1c44"
+      },
+      {
+        "original": "shime29.png",
+        "path": "assets/1046-eyeless-jack/0028.png",
+        "sha256": "1f18a834d8397b0c9c15e075a2621de508b2601b4294f2d761c946a7b173f404"
+      },
+      {
+        "original": "shime30.png",
+        "path": "assets/1046-eyeless-jack/0029.png",
+        "sha256": "b4d4829364a4ad1edfc2a546daaaa562c2b3a907daf307d3f3799890fd1df84c"
+      },
+      {
+        "original": "shime31.png",
+        "path": "assets/1046-eyeless-jack/0030.png",
+        "sha256": "6243cd8afc593edbc21cf4673287f778410e31e13491fd4a3a1663aff0b98ded"
+      },
+      {
+        "original": "shime32.png",
+        "path": "assets/1046-eyeless-jack/0031.png",
+        "sha256": "b4d4829364a4ad1edfc2a546daaaa562c2b3a907daf307d3f3799890fd1df84c"
+      },
+      {
+        "original": "shime33.png",
+        "path": "assets/1046-eyeless-jack/0032.png",
+        "sha256": "6243cd8afc593edbc21cf4673287f778410e31e13491fd4a3a1663aff0b98ded"
+      },
+      {
+        "original": "shime34.png",
+        "path": "assets/1046-eyeless-jack/0033.png",
+        "sha256": "85770e8617409060dae1aa8af61467f37449450feb32ea4913dc629a6a8fd785"
+      },
+      {
+        "original": "shime35.png",
+        "path": "assets/1046-eyeless-jack/0034.png",
+        "sha256": "c29e32ec216aa717ceaca7dc145e905745330ee8a1facc2f3b11fa3a5310bf3b"
+      },
+      {
+        "original": "shime36.png",
+        "path": "assets/1046-eyeless-jack/0035.png",
+        "sha256": "0d4376e9bb647c4f719f6e65a2c7a9371b8b4b1339aa773fe7f27047f787d9f4"
+      },
+      {
+        "original": "shime37.png",
+        "path": "assets/1046-eyeless-jack/0036.png",
+        "sha256": "b1eec5bcf69991003bf9d741669c4cc6848ea7654fb0c82f24be919e88c84396"
+      },
+      {
+        "original": "shime38.png",
+        "path": "assets/1046-eyeless-jack/0037.png",
+        "sha256": "b8468b075f7202dc7db9f8cd14bcff702e07f67e2041c962e21d82a5b6993e97"
+      },
+      {
+        "original": "shime39.png",
+        "path": "assets/1046-eyeless-jack/0038.png",
+        "sha256": "76173199f5b911ec09d1d156c32dae60f584a71b1c9f7edb14f2a5358cea9cac"
+      },
+      {
+        "original": "shime40.png",
+        "path": "assets/1046-eyeless-jack/0039.png",
+        "sha256": "f2ad0773d70d4cdbb4cd166dbdf1fade17b6a81c26d01c07602114c964a3a476"
+      },
+      {
+        "original": "shime41.png",
+        "path": "assets/1046-eyeless-jack/0040.png",
+        "sha256": "baeb11f7bf629ce9d771ce7cc94a4d28bdf4bdac042ae4f74873a6804635b127"
+      },
+      {
+        "original": "shime42.png",
+        "path": "assets/1046-eyeless-jack/0041.png",
+        "sha256": "e0cfa97b043bb6196d4ac332b3ac04e92a5d736d70132425b3711b0770e9c5bb"
+      },
+      {
+        "original": "shime43.png",
+        "path": "assets/1046-eyeless-jack/0042.png",
+        "sha256": "c93b8e3419b8f429a1f9a42b1067796ced90a67450b6cc6f7e7a8742f11bbbb9"
+      },
+      {
+        "original": "shime44.png",
+        "path": "assets/1046-eyeless-jack/0043.png",
+        "sha256": "6dd7f9ef56c2253b061909e4d976793cba1c11f9c609bb0ad156bf2ed525eea7"
+      },
+      {
+        "original": "shime45.png",
+        "path": "assets/1046-eyeless-jack/0044.png",
+        "sha256": "5110220a793c13eb2865fe03b7b2fdb3761ebe00ca88e377073aa1cb5874e566"
+      },
+      {
+        "original": "shime46.png",
+        "path": "assets/1046-eyeless-jack/0045.png",
+        "sha256": "675dcba79bc9428bc045fdab103e9b2bc4187bdef4d1cb66ad446bb82a630839"
+      }
+    ],
+    "archive": "archives\\1046-eyeless-jack.zip"
+  }
+]

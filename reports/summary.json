@@ -1,0 +1,19 @@
+{
+  "source_rows": 1081,
+  "processed_rows": 1081,
+  "downloaded_rows": 1081,
+  "failed_rows": [],
+  "pets_exported": 1081,
+  "manual_mapping": [
+    {
+      "id": "632-flygon",
+      "reason": "No complete Walk sequence; exported as static preview"
+    },
+    {
+      "id": "651-ace",
+      "reason": "No complete Walk sequence; exported as static preview"
+    }
+  ],
+  "base_url": "https://raw.githubusercontent.com/OWNER/REPO/main",
+  "catalog_bytes": 4043919
+}
